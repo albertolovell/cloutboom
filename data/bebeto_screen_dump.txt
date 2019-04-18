@@ -1,0 +1,1063 @@
+18.04.2019_17:38 Get Media by tag: capeverde
+18.04.2019_17:39 Trying to like media: 2024900642799819652
+                 https://www.instagram.com/p/BwZ5Gf_ixuE/
+18.04.2019_17:39 Liked: 2024900642799819652. Like #2746.
+18.04.2019_17:39 Trying to follow: 7437358078
+18.04.2019_17:39 Followed: 7437358078 #918.
+18.04.2019_17:39 Get Media by tag: belize
+18.04.2019_17:40 Trying to like media: 2024891230596424403
+                 https://www.instagram.com/p/BwZ29iMgOLT/
+18.04.2019_17:40 Liked: 2024891230596424403. Like #2747.
+18.04.2019_17:41 Get Media by tag: s1000rr
+18.04.2019_17:41 Trying to unfollow #816:
+18.04.2019_17:41 Getting user info : voyage_custom
+18.04.2019_17:41 Checking user info..
+18.04.2019_17:41 Follower : 1275
+18.04.2019_17:41 Following : 128
+18.04.2019_17:41 Media : 21
+18.04.2019_17:41    >This user is passive
+18.04.2019_17:41    >This account is NOT following you
+18.04.2019_17:41    >You are following this account
+18.04.2019_17:41 voyage_custom
+18.04.2019_17:41 Unfollowed: 2274492483 #816.
+18.04.2019_17:42 Get Media by tag: capeverde
+18.04.2019_17:42 Trying to like media: 2024898441235483291
+                 https://www.instagram.com/p/BwZ4mdoFUqb/
+18.04.2019_17:42 Liked: 2024898441235483291. Like #2748.
+18.04.2019_17:43 Get Media by tag: capeverde
+18.04.2019_17:43 Already followed before 1383900869
+18.04.2019_17:44 Get Media by tag: belize
+18.04.2019_17:44 Trying to like media: 2024920674418942685
+                 https://www.instagram.com/p/BwZ9p_5FeLd/
+18.04.2019_17:44 Liked: 2024920674418942685. Like #2749.
+18.04.2019_17:44 Get Media by tag: s1000rr
+18.04.2019_17:45 Get Media by tag: supermoto
+18.04.2019_17:45 Trying to like media: 2003935666316219396
+                 https://www.instagram.com/p/BvPaN8Hg5QE/
+18.04.2019_17:45 Liked: 2003935666316219396. Like #2750.
+18.04.2019_17:45 Get Media by tag: belize
+18.04.2019_17:46 bebetofernandes : Get media id on recent feed
+18.04.2019_17:46 Media in recent feed = 12
+18.04.2019_17:46 Trying to unfollow #817:
+18.04.2019_17:46 Getting user info : epic_oilfield_courtney
+18.04.2019_17:46 Checking user info..
+18.04.2019_17:46 Follower : 168
+18.04.2019_17:46 Following : 453
+18.04.2019_17:46 Media : 19
+18.04.2019_17:46    >This is probably Fake account
+18.04.2019_17:46    >This user is active
+18.04.2019_17:46    >This account is NOT following you
+18.04.2019_17:46    >You are following this account
+18.04.2019_17:46 epic_oilfield_courtney
+18.04.2019_17:46 Unfollowed: 11041851654 #817.
+18.04.2019_17:46 Trying to follow: 1925724604
+18.04.2019_17:46 Followed: 1925724604 #919.
+18.04.2019_17:47 Get Media by tag: s1000rr
+18.04.2019_17:47 Trying to like media: 2024905364957671528
+                 https://www.instagram.com/p/BwZ6LN2FbBo/
+18.04.2019_17:47 Liked: 2024905364957671528. Like #2751.
+18.04.2019_17:48 Get Media by tag: belize
+18.04.2019_17:49 Get Media by tag: s1000rr
+18.04.2019_17:49 Trying to like media: 2024923610356832887
+                 https://www.instagram.com/p/BwZ-UuMntp3/
+18.04.2019_17:49 Liked: 2024923610356832887. Like #2752.
+18.04.2019_17:50 Get Media by tag: s1000rr
+18.04.2019_17:50 Trying to unfollow #818:
+18.04.2019_17:50 Getting user info : semar_supermotocross
+18.04.2019_17:50 Checking user info..
+18.04.2019_17:50 Follower : 3080
+18.04.2019_17:50 Following : 253
+18.04.2019_17:50 Media : 759
+18.04.2019_17:50    >This user is active
+18.04.2019_17:50    >This account is NOT following you
+18.04.2019_17:50    >You are following this account
+18.04.2019_17:50 semar_supermotocross
+18.04.2019_17:50 Unfollowed: 2230763029 #818.
+18.04.2019_17:51 Trying to follow: 3211270486
+18.04.2019_17:51 Followed: 3211270486 #920.
+18.04.2019_17:51 Trying to like media: 2024905722430242873
+                 https://www.instagram.com/p/BwZ6QaxHEA5/
+18.04.2019_17:51 Liked: 2024905722430242873. Like #2753.
+18.04.2019_17:51 Get Media by tag: s1000rr
+18.04.2019_17:52 Get Media by tag: supermoto
+18.04.2019_17:52 Trying to like media: 2024923501764658710
+                 https://www.instagram.com/p/BwZ-TJEBcYW/
+18.04.2019_17:53 Liked: 2024923501764658710. Like #2754.
+18.04.2019_17:53 Get Media by tag: s1000rr
+18.04.2019_17:54 Get Media by tag: s1000rr
+18.04.2019_17:54 Trying to like media: 2024925465034609352
+                 https://www.instagram.com/p/BwZ-vtgB9LI/
+18.04.2019_17:54 Liked: 2024925465034609352. Like #2755.
+18.04.2019_17:55 bebetofernandes : Get media id on recent feed
+18.04.2019_17:55 Media in recent feed = 12
+18.04.2019_17:55 Trying to unfollow #819:
+18.04.2019_17:55 Getting user info : dionds
+18.04.2019_17:55 Checking user info..
+18.04.2019_17:55 Follower : 3907
+18.04.2019_17:55 Following : 613
+18.04.2019_17:55 Media : 1510
+18.04.2019_17:55    >This user is active
+18.04.2019_17:55    >This account is NOT following you
+18.04.2019_17:55    >You are following this account
+18.04.2019_17:55 dionds
+18.04.2019_17:55 Unfollowed: 359947366 #819.
+18.04.2019_17:56 Get Media by tag: s1000rr
+18.04.2019_17:56 Trying to follow: 1267505005
+18.04.2019_17:56 Followed: 1267505005 #921.
+18.04.2019_17:56 Trying to like media: 2024902891190320607
+                 https://www.instagram.com/p/BwZ5nN-D33f/
+18.04.2019_17:56 Liked: 2024902891190320607. Like #2756.
+18.04.2019_17:57 Get Media by tag: supermoto
+18.04.2019_17:58 Get Media by tag: belize
+18.04.2019_17:58 Trying to like media: 2024920839641503801
+                 https://www.instagram.com/p/BwZ9sZxHhg5/
+18.04.2019_17:58 Liked: 2024920839641503801. Like #2757.
+18.04.2019_17:59 Get Media by tag: supermoto
+18.04.2019_18:00 Trying to like media: 2022659285997210130
+                 https://www.instagram.com/p/BwR7edzgkoS/
+18.04.2019_18:00 Liked: 2022659285997210130. Like #2758.
+18.04.2019_18:00 Trying to unfollow #820:
+18.04.2019_18:00 Getting user info : tom_1290r
+18.04.2019_18:00 Checking user info..
+18.04.2019_18:00 Follower : 2901
+18.04.2019_18:00 Following : 363
+18.04.2019_18:00 Media : 260
+18.04.2019_18:00    >This user is active
+18.04.2019_18:00    >This account is NOT following you
+18.04.2019_18:00    >You are following this account
+18.04.2019_18:00 tom_1290r
+18.04.2019_18:00 Unfollowed: 296913019 #820.
+18.04.2019_18:00 Get Media by tag: supermoto
+18.04.2019_18:00 Trying to follow: 1690846145
+18.04.2019_18:00 Followed: 1690846145 #922.
+18.04.2019_18:02 Get Media by tag: s1000rr
+18.04.2019_18:02 Trying to like media: 2024918537698326394
+                 https://www.instagram.com/p/BwZ9K56nLd6/
+18.04.2019_18:02 Liked: 2024918537698326394. Like #2759.
+18.04.2019_18:03 Get Media by tag: supermoto
+18.04.2019_18:04 Get Media by tag: belize
+18.04.2019_18:04 Trying to like media: 2024930169803733179
+                 https://www.instagram.com/p/BwZ_0LKH3i7/
+18.04.2019_18:04 Liked: 2024930169803733179. Like #2760.
+18.04.2019_18:05 Get Media by tag: capeverde
+18.04.2019_18:05 bebetofernandes : Get media id on recent feed
+18.04.2019_18:05 Media in recent feed = 12
+18.04.2019_18:05 Trying to unfollow #821:
+18.04.2019_18:05 Getting user info : joeydu
+18.04.2019_18:05 Checking user info..
+18.04.2019_18:05 Follower : 1064
+18.04.2019_18:05 Following : 443
+18.04.2019_18:05 Media : 915
+18.04.2019_18:05    >This user is active
+18.04.2019_18:05    >This account is NOT following you
+18.04.2019_18:05    >You are following this account
+18.04.2019_18:05 joeydu
+18.04.2019_18:05 Unfollowed: 52621218 #821.
+18.04.2019_18:05 Trying to follow: 1477298420
+18.04.2019_18:05 Followed: 1477298420 #923.
+18.04.2019_18:06 Trying to like media: 2024885306754533340
+                 https://www.instagram.com/p/BwZ1nVMAwfc/
+18.04.2019_18:06 Liked: 2024885306754533340. Like #2761.
+18.04.2019_18:06 Get Media by tag: capeverde
+18.04.2019_18:07 Get Media by tag: capeverde
+18.04.2019_18:08 Trying to like media: 2024900122706418188
+                 https://www.instagram.com/p/BwZ4-7nj5oM/
+18.04.2019_18:08 Liked: 2024900122706418188. Like #2762.
+18.04.2019_18:08 Get Media by tag: belize
+18.04.2019_18:09 Get Media by tag: s1000rr
+18.04.2019_18:09 Trying to like media: 2024918259825376123
+                 https://www.instagram.com/p/BwZ9G3IF_t7/
+18.04.2019_18:09 Liked: 2024918259825376123. Like #2763.
+18.04.2019_18:10 Get Media by tag: supermoto
+18.04.2019_18:10 Trying to follow: 1009228295
+18.04.2019_18:10 Followed: 1009228295 #924.
+18.04.2019_18:10 Trying to unfollow #822:
+18.04.2019_18:10 Getting user info : shadesofbelize
+18.04.2019_18:10 Checking user info..
+18.04.2019_18:10 Follower : 901
+18.04.2019_18:10 Following : 503
+18.04.2019_18:10 Media : 265
+18.04.2019_18:10    >This is a normal account
+18.04.2019_18:10    >This user is active
+18.04.2019_18:10    >This account is following you
+18.04.2019_18:10    >You are following this account
+18.04.2019_18:11 Get Media by tag: s1000rr
+18.04.2019_18:11 Trying to like media: 2024930111604034190
+                 https://www.instagram.com/p/BwZ_zU9JoqO/
+18.04.2019_18:11 Liked: 2024930111604034190. Like #2764.
+18.04.2019_18:12 Get Media by tag: supermoto
+18.04.2019_18:13 Trying to like media: 2024924401519961948
+                 https://www.instagram.com/p/BwZ-gPBnidc/
+18.04.2019_18:13 Liked: 2024924401519961948. Like #2765.
+18.04.2019_18:13 Get Media by tag: s1000rr
+18.04.2019_18:14 Get Media by tag: s1000rr
+18.04.2019_18:15 Trying to like media: 2024916942143226817
+                 https://www.instagram.com/p/BwZ8zr8HgPB/
+18.04.2019_18:15 Liked: 2024916942143226817. Like #2766.
+18.04.2019_18:15 Trying to follow: 5532468953
+18.04.2019_18:15 Followed: 5532468953 #925.
+18.04.2019_18:15 bebetofernandes : Get media id on recent feed
+18.04.2019_18:15 Media in recent feed = 12
+18.04.2019_18:15 Trying to unfollow #822:
+18.04.2019_18:15 Getting user info : tsunami.balint
+18.04.2019_18:15 Checking user info..
+18.04.2019_18:15 Follower : 150
+18.04.2019_18:15 Following : 364
+18.04.2019_18:15 Media : 37
+18.04.2019_18:15    >This is probably Fake account
+18.04.2019_18:15    >This user is active
+18.04.2019_18:15    >This account is following you
+18.04.2019_18:15    >You are following this account
+18.04.2019_18:15 tsunami.balint
+18.04.2019_18:15 Unfollowed: 2809671039 #822.
+18.04.2019_18:15 Get Media by tag: supermoto
+18.04.2019_18:17 Get Media by tag: supermoto
+18.04.2019_18:17 Trying to like media: 2024936502623449687
+                 https://www.instagram.com/p/BwaBQVDl7JX/
+18.04.2019_18:17 Liked: 2024936502623449687. Like #2767.
+18.04.2019_18:18 Get Media by tag: s1000rr
+18.04.2019_18:19 Trying to like media: 2024912460166940190
+                 https://www.instagram.com/p/BwZ7ydxg0Ye/
+18.04.2019_18:19 Liked: 2024912460166940190. Like #2768.
+18.04.2019_18:19 Get Media by tag: supermoto
+18.04.2019_18:20 Trying to follow: 11214053339
+18.04.2019_18:20 Followed: 11214053339 #926.
+18.04.2019_18:20 Get Media by tag: supermoto
+18.04.2019_18:20 Trying to unfollow #823:
+18.04.2019_18:20 Getting user info : recondo.rider
+18.04.2019_18:20 Checking user info..
+18.04.2019_18:20 Follower : 159
+18.04.2019_18:20 Following : 210
+18.04.2019_18:20 Media : 105
+18.04.2019_18:20    >This is a normal account
+18.04.2019_18:20    >This user is active
+18.04.2019_18:20    >This account is NOT following you
+18.04.2019_18:20    >You are following this account
+18.04.2019_18:20 recondo.rider
+18.04.2019_18:20 Unfollowed: 8583447138 #823.
+18.04.2019_18:20 Trying to like media: 2024938550407287046
+                 https://www.instagram.com/p/BwaBuINBVEG/
+18.04.2019_18:20 Liked: 2024938550407287046. Like #2769.
+18.04.2019_18:21 Get Media by tag: capeverde
+18.04.2019_18:22 Trying to like media: 2024876471747349415
+                 https://www.instagram.com/p/BwZzmw8jAun/
+18.04.2019_18:22 Liked: 2024876471747349415. Like #2770.
+18.04.2019_18:23 Get Media by tag: s1000rr
+18.04.2019_18:24 Get Media by tag: capeverde
+18.04.2019_18:24 Trying to like media: 2024892116627696485
+                 https://www.instagram.com/p/BwZ3KbYFStl/
+18.04.2019_18:24 Liked: 2024892116627696485. Like #2771.
+18.04.2019_18:25 Get Media by tag: belize
+18.04.2019_18:25 Trying to follow: 8603222529
+18.04.2019_18:25 Followed: 8603222529 #927.
+18.04.2019_18:26 bebetofernandes : Get media id on recent feed
+18.04.2019_18:26 Media in recent feed = 12
+18.04.2019_18:26 Trying to unfollow #824:
+18.04.2019_18:26 Getting user info : amateur2206
+18.04.2019_18:26 Checking user info..
+18.04.2019_18:26 Follower : 479
+18.04.2019_18:26 Following : 192
+18.04.2019_18:26 Media : 234
+18.04.2019_18:26    >This user is active
+18.04.2019_18:26    >This account is following you
+18.04.2019_18:26    >You are following this account
+18.04.2019_18:26 Get Media by tag: supermoto
+18.04.2019_18:26 Trying to like media: 2024939880697669077
+                 https://www.instagram.com/p/BwaCBfIgaXV/
+18.04.2019_18:26 Liked: 2024939880697669077. Like #2772.
+18.04.2019_18:27 Get Media by tag: capeverde
+18.04.2019_18:28 Trying to like media: 2024860562734992205
+                 https://www.instagram.com/p/BwZv_QhhEtN/
+18.04.2019_18:28 Liked: 2024860562734992205. Like #2773.
+18.04.2019_18:28 Get Media by tag: s1000rr
+18.04.2019_18:29 Get Media by tag: s1000rr
+18.04.2019_18:30 Trying to like media: 2024929408292491351
+                 https://www.instagram.com/p/BwZ_pF8hBBX/
+18.04.2019_18:30 Liked: 2024929408292491351. Like #2774.
+18.04.2019_18:30 Trying to follow: 10505424690
+18.04.2019_18:30 Followed: 10505424690 #928.
+18.04.2019_18:30 Trying to unfollow #824:
+18.04.2019_18:30 Getting user info : fleckyoga
+18.04.2019_18:30 Checking user info..
+18.04.2019_18:30 Follower : 144
+18.04.2019_18:30 Following : 263
+18.04.2019_18:30 Media : 238
+18.04.2019_18:30    >This is a normal account
+18.04.2019_18:30    >This user is active
+18.04.2019_18:30    >This account is NOT following you
+18.04.2019_18:30    >You are following this account
+18.04.2019_18:30 fleckyoga
+18.04.2019_18:30 Unfollowed: 1815092606 #824.
+18.04.2019_18:30 Get Media by tag: s1000rr
+18.04.2019_18:31 Get Media by tag: capeverde
+18.04.2019_18:32 Trying to like media: 2024914253978662499
+                 https://www.instagram.com/p/BwZ8MkZBfZj/
+18.04.2019_18:32 Liked: 2024914253978662499. Like #2775.
+18.04.2019_18:32 Get Media by tag: s1000rr
+18.04.2019_18:33 Trying to like media: 2024876042461597455
+                 https://www.instagram.com/p/BwZzghJH08P/
+18.04.2019_18:33 Liked: 2024876042461597455. Like #2776.
+18.04.2019_18:33 Get Media by tag: capeverde
+18.04.2019_18:34 Get Media by tag: s1000rr
+18.04.2019_18:34 Trying to follow: 8549727977
+18.04.2019_18:34 Followed: 8549727977 #929.
+18.04.2019_18:35 bebetofernandes : Get media id on recent feed
+18.04.2019_18:35 Media in recent feed = 12
+18.04.2019_18:35 Trying to unfollow #825:
+18.04.2019_18:35 Getting user info : cbr250rrfans
+18.04.2019_18:35 Checking user info..
+18.04.2019_18:35 Follower : 169688
+18.04.2019_18:35 Following : 135
+18.04.2019_18:35 Media : 9475
+18.04.2019_18:35    >This user is active
+18.04.2019_18:35    >This account is NOT following you
+18.04.2019_18:35    >You are following this account
+18.04.2019_18:35 cbr250rrfans
+18.04.2019_18:35 Unfollowed: 4081657803 #825.
+18.04.2019_18:35 Trying to like media: 2024926678748435126
+                 https://www.instagram.com/p/BwZ_BX3AxK2/
+18.04.2019_18:35 Liked: 2024926678748435126. Like #2777.
+18.04.2019_18:35 Get Media by tag: s1000rr
+18.04.2019_18:36 Get Media by tag: capeverde
+18.04.2019_18:37 Trying to like media: 2024906920464360255
+                 https://www.instagram.com/p/BwZ6h2hgiM_/
+18.04.2019_18:37 Liked: 2024906920464360255. Like #2778.
+18.04.2019_18:37 Get Media by tag: capeverde
+18.04.2019_18:38 Get Media by tag: capeverde
+18.04.2019_18:39 Trying to like media: 2024927087627081887
+                 https://www.instagram.com/p/BwZ_HUqFBif/
+18.04.2019_18:39 Liked: 2024927087627081887. Like #2779.
+18.04.2019_18:39 Trying to unfollow #826:
+18.04.2019_18:39 Getting user info : yamahakingdom
+18.04.2019_18:39 Checking user info..
+18.04.2019_18:39 Follower : 44372
+18.04.2019_18:39 Following : 18
+18.04.2019_18:39 Media : 1092
+18.04.2019_18:39    >This user is passive
+18.04.2019_18:39    >This account is NOT following you
+18.04.2019_18:39    >You are following this account
+18.04.2019_18:39 yamahakingdom
+18.04.2019_18:39 Unfollowed: 5403988556 #826.
+18.04.2019_18:39 Get Media by tag: capeverde
+18.04.2019_18:40 Already followed before 37716578
+18.04.2019_18:40 Trying to like media: 2024848106324352263
+                 https://www.instagram.com/p/BwZtJ_lld0H/
+18.04.2019_18:40 Liked: 2024848106324352263. Like #2780.
+18.04.2019_18:40 Get Media by tag: supermoto
+18.04.2019_18:42 Get Media by tag: s1000rr
+18.04.2019_18:42 Trying to follow: 255367080
+18.04.2019_18:42 Followed: 255367080 #930.
+18.04.2019_18:42 Trying to like media: 2024929854073288419
+                 https://www.instagram.com/p/BwZ_vlHHzbj/
+18.04.2019_18:42 Liked: 2024929854073288419. Like #2781.
+18.04.2019_18:43 Get Media by tag: capeverde
+18.04.2019_18:44 bebetofernandes : Get media id on recent feed
+18.04.2019_18:44 Media in recent feed = 12
+18.04.2019_18:44 Trying to unfollow #827:
+18.04.2019_18:44 Getting user info : aspace07
+18.04.2019_18:44 Checking user info..
+18.04.2019_18:44 Follower : 1765
+18.04.2019_18:44 Following : 0
+18.04.2019_18:44 Media : 95
+18.04.2019_18:44    >This user is active
+18.04.2019_18:44    >This account is NOT following you
+18.04.2019_18:44    >You are following this account
+18.04.2019_18:44 aspace07
+18.04.2019_18:44 Unfollowed: 9201397725 #827.
+18.04.2019_18:44 Get Media by tag: belize
+18.04.2019_18:44 Trying to like media: 2024936998590272086
+                 https://www.instagram.com/p/BwaBXi9hNJW/
+18.04.2019_18:44 Liked: 2024936998590272086. Like #2782.
+18.04.2019_18:45 Get Media by tag: s1000rr
+18.04.2019_18:46 Get Media by tag: capeverde
+18.04.2019_18:46 Trying to like media: 2024951675819113064
+                 https://www.instagram.com/p/BwaEtIMh7po/
+18.04.2019_18:46 Liked: 2024951675819113064. Like #2783.
+18.04.2019_18:46 Already followed before 11653586051
+18.04.2019_18:47 Get Media by tag: supermoto
+18.04.2019_18:48 Trying to like media: 1991580613437810530
+                 https://www.instagram.com/p/BujhAQdg-di/
+18.04.2019_18:48 Liked: 1991580613437810530. Like #2784.
+18.04.2019_18:48 Get Media by tag: belize
+18.04.2019_18:48 Trying to follow: 145146301
+18.04.2019_18:48 Followed: 145146301 #931.
+18.04.2019_18:49 Trying to unfollow #828:
+18.04.2019_18:49 Getting user info : _liron.mesika
+18.04.2019_18:49 Checking user info..
+18.04.2019_18:49 Follower : 1779
+18.04.2019_18:49 Following : 704
+18.04.2019_18:49 Media : 91
+18.04.2019_18:49    >This user is active
+18.04.2019_18:49    >This account is NOT following you
+18.04.2019_18:49    >You are following this account
+18.04.2019_18:49 _liron.mesika
+18.04.2019_18:49 Unfollowed: 3065826250 #828.
+18.04.2019_18:49 Get Media by tag: capeverde
+18.04.2019_18:50 Trying to like media: 2024911004501496230
+                 https://www.instagram.com/p/BwZ7dSFF1Gm/
+18.04.2019_18:50 Liked: 2024911004501496230. Like #2785.
+18.04.2019_18:50 Get Media by tag: belize
+18.04.2019_18:51 Get Media by tag: s1000rr
+18.04.2019_18:52 Trying to like media: 2024952720470229325
+                 https://www.instagram.com/p/BwaE8VGlsFN/
+18.04.2019_18:52 Liked: 2024952720470229325. Like #2786.
+18.04.2019_18:53 Get Media by tag: capeverde
+18.04.2019_18:53 bebetofernandes : Get media id on recent feed
+18.04.2019_18:53 Media in recent feed = 12
+18.04.2019_18:53 Trying to unfollow #829:
+18.04.2019_18:53 Getting user info : zxena_the_ninja
+18.04.2019_18:53 Checking user info..
+18.04.2019_18:53 Follower : 1824
+18.04.2019_18:53 Following : 2473
+18.04.2019_18:53 Media : 272
+18.04.2019_18:53    >This is a normal account
+18.04.2019_18:53    >This user is active
+18.04.2019_18:53    >This account is NOT following you
+18.04.2019_18:53    >You are following this account
+18.04.2019_18:53 zxena_the_ninja
+18.04.2019_18:53 Unfollowed: 5321016147 #829.
+18.04.2019_18:53 Trying to follow: 8450570423
+18.04.2019_18:53 Followed: 8450570423 #932.
+18.04.2019_18:53 Trying to like media: 2024887745365081752
+                 https://www.instagram.com/p/BwZ2K0Uhv6Y/
+18.04.2019_18:53 Liked: 2024887745365081752. Like #2787.
+18.04.2019_18:53 Get Media by tag: s1000rr
+18.04.2019_18:55 Get Media by tag: capeverde
+18.04.2019_18:55 Trying to like media: 2024883751911026760
+                 https://www.instagram.com/p/BwZ1QtIHfBI/
+18.04.2019_18:55 Liked: 2024883751911026760. Like #2788.
+18.04.2019_18:56 Get Media by tag: s1000rr
+18.04.2019_18:57 Get Media by tag: s1000rr
+18.04.2019_18:57 Trying to like media: 2024952642809049264
+                 https://www.instagram.com/p/BwaE7MxnzCw/
+18.04.2019_18:57 Liked: 2024952642809049264. Like #2789.
+18.04.2019_18:57 Get Media by tag: s1000rr
+18.04.2019_18:58 Trying to unfollow #830:
+18.04.2019_18:58 Getting user info : moto.domo
+18.04.2019_18:58 Checking user info..
+18.04.2019_18:58 Follower : 2604
+18.04.2019_18:58 Following : 3161
+18.04.2019_18:58 Media : 64
+18.04.2019_18:58    >This is a normal account
+18.04.2019_18:58    >This user is passive
+18.04.2019_18:58    >This account is NOT following you
+18.04.2019_18:58    >You are following this account
+18.04.2019_18:58 moto.domo
+18.04.2019_18:58 Unfollowed: 7034724523 #830.
+18.04.2019_18:58 Get Media by tag: s1000rr
+18.04.2019_18:58 Already followed before 1135909947
+18.04.2019_18:59 Trying to like media: 2024950174064882736
+                 https://www.instagram.com/p/BwaEXRlALQw/
+18.04.2019_18:59 Liked: 2024950174064882736. Like #2790.
+18.04.2019_18:59 Get Media by tag: s1000rr
+18.04.2019_19:00 Trying to like media: 1500262557608169478
+                 https://www.instagram.com/p/BTSANjwDdAG/
+18.04.2019_19:01 Liked: 1500262557608169478. Like #2791.
+18.04.2019_19:01 Get Media by tag: s1000rr
+18.04.2019_19:01 Already followed before 1436229912
+18.04.2019_19:02 Get Media by tag: supermoto
+18.04.2019_19:02 Trying to like media: 2024954356282878412
+                 https://www.instagram.com/p/BwaFUIknunM/
+18.04.2019_19:02 Liked: 2024954356282878412. Like #2792.
+18.04.2019_19:03 Get Media by tag: s1000rr
+18.04.2019_19:03 bebetofernandes : Get media id on recent feed
+18.04.2019_19:03 Media in recent feed = 12
+18.04.2019_19:03 Trying to unfollow #831:
+18.04.2019_19:03 Getting user info : paulczy
+18.04.2019_19:03 Checking user info..
+18.04.2019_19:03 Follower : 248
+18.04.2019_19:03 Following : 408
+18.04.2019_19:03 Media : 136
+18.04.2019_19:03    >This is a normal account
+18.04.2019_19:03    >This user is active
+18.04.2019_19:03    >This account is NOT following you
+18.04.2019_19:03    >You are following this account
+18.04.2019_19:03 paulczy
+18.04.2019_19:03 Unfollowed: 418821113 #831.
+18.04.2019_19:03 Already followed before 1135909947
+18.04.2019_19:04 Get Media by tag: s1000rr
+18.04.2019_19:04 Trying to like media: 2024952373878840105
+                 https://www.instagram.com/p/BwaE3SUIdsp/
+18.04.2019_19:04 Liked: 2024952373878840105. Like #2793.
+18.04.2019_19:05 Get Media by tag: capeverde
+18.04.2019_19:06 Already followed before 6597726316
+18.04.2019_19:06 Get Media by tag: s1000rr
+18.04.2019_19:06 Trying to like media: 2024960845223373833
+                 https://www.instagram.com/p/BwaGyj3nSwJ/
+18.04.2019_19:06 Liked: 2024960845223373833. Like #2794.
+18.04.2019_19:07 Get Media by tag: supermoto
+18.04.2019_19:07 Trying to unfollow #832:
+18.04.2019_19:07 Getting user info : superbikegasm
+18.04.2019_19:07 Checking user info..
+18.04.2019_19:07 Follower : 183
+18.04.2019_19:07 Following : 233
+18.04.2019_19:07 Media : 43
+18.04.2019_19:07    >This is a normal account
+18.04.2019_19:07    >This user is active
+18.04.2019_19:07    >This account is NOT following you
+18.04.2019_19:07    >You are following this account
+18.04.2019_19:07 superbikegasm
+18.04.2019_19:07 Unfollowed: 6210952087 #832.
+18.04.2019_19:08 Trying to like media: 2024959742892639773
+                 https://www.instagram.com/p/BwaGihPlQYd/
+18.04.2019_19:08 Liked: 2024959742892639773. Like #2795.
+18.04.2019_19:08 Trying to follow: 2892920839
+18.04.2019_19:08 Followed: 2892920839 #933.
+18.04.2019_19:09 Get Media by tag: supermoto
+18.04.2019_19:09 Trying to like media: 1986333268424815507
+                 https://www.instagram.com/p/BuQ35VmAHOT/
+18.04.2019_19:09 Liked: 1986333268424815507. Like #2796.
+18.04.2019_19:10 Get Media by tag: belize
+18.04.2019_19:11 Get Media by tag: supermoto
+18.04.2019_19:11 Trying to like media: 2024960911242370482
+                 https://www.instagram.com/p/BwaGzhWpx2y/
+18.04.2019_19:11 Liked: 2024960911242370482. Like #2797.
+18.04.2019_19:12 Get Media by tag: belize
+18.04.2019_19:13 bebetofernandes : Get media id on recent feed
+18.04.2019_19:13 Media in recent feed = 12
+18.04.2019_19:13 Trying to unfollow #833:
+18.04.2019_19:13 Getting user info : imnl_graphics
+18.04.2019_19:13 Checking user info..
+18.04.2019_19:13 Follower : 2808
+18.04.2019_19:13 Following : 92
+18.04.2019_19:13 Media : 168
+18.04.2019_19:13    >This user is active
+18.04.2019_19:13    >This account is NOT following you
+18.04.2019_19:13    >You are following this account
+18.04.2019_19:13 imnl_graphics
+18.04.2019_19:13 Unfollowed: 6849547816 #833.
+18.04.2019_19:13 Trying to like media: 2024857782474531659
+                 https://www.instagram.com/p/BwZvWzNFGNL/
+18.04.2019_19:13 Liked: 2024857782474531659. Like #2798.
+18.04.2019_19:13 Get Media by tag: capeverde
+18.04.2019_19:13 Trying to follow: 381200409
+18.04.2019_19:13 Followed: 381200409 #934.
+18.04.2019_19:14 Get Media by tag: belize
+18.04.2019_19:15 Trying to like media: 2024959376520167755
+                 https://www.instagram.com/p/BwaGdMCFMFL/
+18.04.2019_19:15 Liked: 2024959376520167755. Like #2799.
+18.04.2019_19:15 Get Media by tag: belize
+18.04.2019_19:17 Get Media by tag: capeverde
+18.04.2019_19:17 Trying to like media: 2024962791378837864
+                 https://www.instagram.com/p/BwaHO4XhOFo/
+18.04.2019_19:17 Liked: 2024962791378837864. Like #2800.
+18.04.2019_19:18 Get Media by tag: supermoto
+18.04.2019_19:18 Trying to unfollow #834:
+18.04.2019_19:18 Getting user info : miss_caly
+18.04.2019_19:18 Checking user info..
+18.04.2019_19:18 Follower : 2825
+18.04.2019_19:18 Following : 1172
+18.04.2019_19:18 Media : 1136
+18.04.2019_19:18    >This user is active
+18.04.2019_19:18    >This account is NOT following you
+18.04.2019_19:18    >You are following this account
+18.04.2019_19:18 miss_caly
+18.04.2019_19:18 Unfollowed: 225884083 #834.
+18.04.2019_19:19 Trying to like media: 1986330869534634700
+                 https://www.instagram.com/p/BuQ3WbdATLM/
+18.04.2019_19:19 Liked: 1986330869534634700. Like #2801.
+18.04.2019_19:19 Already followed before 8939583768
+18.04.2019_19:19 Get Media by tag: capeverde
+18.04.2019_19:20 Get Media by tag: supermoto
+18.04.2019_19:20 Trying to like media: 2024966279689273215
+                 https://www.instagram.com/p/BwaIBpHBf9_/
+18.04.2019_19:20 Liked: 2024966279689273215. Like #2802.
+18.04.2019_19:21 Get Media by tag: belize
+18.04.2019_19:21 Already followed before 6494037442
+18.04.2019_19:22 Trying to like media: 2024837950713425162
+                 https://www.instagram.com/p/BwZq2NcAO0K/
+18.04.2019_19:22 Liked: 2024837950713425162. Like #2803.
+18.04.2019_19:22 Get Media by tag: capeverde
+18.04.2019_19:23 bebetofernandes : Get media id on recent feed
+18.04.2019_19:23 Media in recent feed = 12
+18.04.2019_19:23 Trying to unfollow #835:
+18.04.2019_19:23 Getting user info : aleshamariephotography
+18.04.2019_19:23 Checking user info..
+18.04.2019_19:23 Follower : 44
+18.04.2019_19:23 Following : 22
+18.04.2019_19:23 Media : 15
+18.04.2019_19:23    >This is a normal account
+18.04.2019_19:23    >This user is active
+18.04.2019_19:23    >This account is NOT following you
+18.04.2019_19:23    >You are following this account
+18.04.2019_19:23 aleshamariephotography
+18.04.2019_19:23 Unfollowed: 11205521232 #835.
+18.04.2019_19:23 Get Media by tag: capeverde
+18.04.2019_19:24 Already followed before 1608446986
+18.04.2019_19:24 Trying to like media: 2024911842228632650
+                 https://www.instagram.com/p/BwZ7peRhPxK/
+18.04.2019_19:24 Liked: 2024911842228632650. Like #2804.
+18.04.2019_19:24 Get Media by tag: belize
+18.04.2019_19:25 Get Media by tag: supermoto
+18.04.2019_19:26 Trying to follow: 4667986811
+18.04.2019_19:26 Followed: 4667986811 #935.
+18.04.2019_19:26 Trying to like media: 2024968161532438371
+                 https://www.instagram.com/p/BwaIdBtnedj/
+18.04.2019_19:26 Liked: 2024968161532438371. Like #2805.
+18.04.2019_19:27 Get Media by tag: belize
+18.04.2019_19:27 Trying to unfollow #836:
+18.04.2019_19:27 Getting user info : punk_fluffie_unicorn
+18.04.2019_19:27 Checking user info..
+18.04.2019_19:27 Follower : 186
+18.04.2019_19:27 Following : 40
+18.04.2019_19:27 Media : 142
+18.04.2019_19:27    >This user is active
+18.04.2019_19:27    >This account is NOT following you
+18.04.2019_19:27    >You are following this account
+18.04.2019_19:27 punk_fluffie_unicorn
+18.04.2019_19:27 Unfollowed: 1703396092 #836.
+18.04.2019_19:28 Trying to like media: 2024947108491952952
+                 https://www.instagram.com/p/BwaDqqingM4/
+18.04.2019_19:28 Liked: 2024947108491952952. Like #2806.
+18.04.2019_19:28 Get Media by tag: s1000rr
+18.04.2019_19:29 Get Media by tag: belize
+18.04.2019_19:30 Trying to like media: 2024957533492681207
+                 https://www.instagram.com/p/BwaGCXlFRn3/
+18.04.2019_19:30 Liked: 2024957533492681207. Like #2807.
+18.04.2019_19:30 Get Media by tag: capeverde
+18.04.2019_19:31 Already followed before 1470967150
+18.04.2019_19:31 Get Media by tag: belize
+18.04.2019_19:31 Trying to like media: 2024962878938911411
+                 https://www.instagram.com/p/BwaHQJ6gZKz/
+18.04.2019_19:31 Liked: 2024962878938911411. Like #2808.
+18.04.2019_19:32 bebetofernandes : Get media id on recent feed
+18.04.2019_19:32 Media in recent feed = 12
+18.04.2019_19:32 Trying to unfollow #837:
+18.04.2019_19:32 Getting user info : russmorris
+18.04.2019_19:32 Checking user info..
+18.04.2019_19:32 Follower : 787
+18.04.2019_19:32 Following : 644
+18.04.2019_19:32 Media : 233
+18.04.2019_19:32    >This is a normal account
+18.04.2019_19:32    >This user is active
+18.04.2019_19:32    >This account is NOT following you
+18.04.2019_19:32    >You are following this account
+18.04.2019_19:32 russmorris
+18.04.2019_19:32 Unfollowed: 180871310 #837.
+18.04.2019_19:32 Get Media by tag: s1000rr
+18.04.2019_19:33 Already followed before 8084048236
+18.04.2019_19:33 Trying to like media: 2024949699370702372
+                 https://www.instagram.com/p/BwaEQXfBlYk/
+18.04.2019_19:33 Liked: 2024949699370702372. Like #2809.
+18.04.2019_19:33 Get Media by tag: supermoto
+18.04.2019_19:34 Get Media by tag: supermoto
+18.04.2019_19:35 Trying to like media: 1982755932223864894
+                 https://www.instagram.com/p/BuEKgPogIA-/
+18.04.2019_19:35 Liked: 1982755932223864894. Like #2810.
+18.04.2019_19:36 Already followed before 8939583768
+18.04.2019_19:36 Get Media by tag: capeverde
+18.04.2019_19:36 Trying to unfollow #838:
+18.04.2019_19:36 Getting user info : ayeshajaliyah
+18.04.2019_19:36 Checking user info..
+18.04.2019_19:36 Follower : 168
+18.04.2019_19:36 Following : 160
+18.04.2019_19:36 Media : 15
+18.04.2019_19:36    >This is a normal account
+18.04.2019_19:36    >This user is active
+18.04.2019_19:36    >This account is following you
+18.04.2019_19:36    >You are following this account
+18.04.2019_19:37 Get Media by tag: s1000rr
+18.04.2019_19:37 Trying to like media: 2024973508565443272
+                 https://www.instagram.com/p/BwaJq1hnqLI/
+18.04.2019_19:37 Liked: 2024973508565443272. Like #2811.
+18.04.2019_19:38 Already followed before 8084048236
+18.04.2019_19:38 Get Media by tag: belize
+18.04.2019_19:39 Get Media by tag: capeverde
+18.04.2019_19:39 Trying to like media: 2024971722839869274
+                 https://www.instagram.com/p/BwaJQ2cFMda/
+18.04.2019_19:39 Liked: 2024971722839869274. Like #2812.
+18.04.2019_19:40 Get Media by tag: capeverde
+18.04.2019_19:40 Already followed before 7415890042
+18.04.2019_19:41 Trying to like media: 2024914095251007548
+                 https://www.instagram.com/p/BwZ8KQkHig8/
+18.04.2019_19:41 Liked: 2024914095251007548. Like #2813.
+18.04.2019_19:41 Get Media by tag: capeverde
+18.04.2019_19:41 bebetofernandes : Get media id on recent feed
+18.04.2019_19:41 Media in recent feed = 12
+18.04.2019_19:41 Trying to unfollow #838:
+18.04.2019_19:41 Getting user info : the_lionchef
+18.04.2019_19:41 Checking user info..
+18.04.2019_19:41 Follower : 4293
+18.04.2019_19:41 Following : 283
+18.04.2019_19:41 Media : 417
+18.04.2019_19:41    >This user is active
+18.04.2019_19:41    >This account is NOT following you
+18.04.2019_19:41    >You are following this account
+18.04.2019_19:41 the_lionchef
+18.04.2019_19:41 Unfollowed: 176223423 #838.
+18.04.2019_19:42 Get Media by tag: capeverde
+18.04.2019_19:43 Trying to like media: 2024950685897768910
+                 https://www.instagram.com/p/BwaEeuQnr_O/
+18.04.2019_19:43 Liked: 2024950685897768910. Like #2814.
+18.04.2019_19:43 Already followed before 37716578
+18.04.2019_19:43 Get Media by tag: capeverde
+18.04.2019_19:44 Get Media by tag: s1000rr
+18.04.2019_19:44 Trying to like media: 2024975091319584176
+                 https://www.instagram.com/p/BwaKB3lHjWw/
+18.04.2019_19:44 Liked: 2024975091319584176. Like #2815.
+18.04.2019_19:45 Already followed before 8021016059
+18.04.2019_19:45 Get Media by tag: s1000rr
+18.04.2019_19:46 Trying to unfollow #839:
+18.04.2019_19:46 Getting user info : patlayan_ayanlar01
+18.04.2019_19:46 Checking user info..
+18.04.2019_19:46 Follower : 546
+18.04.2019_19:46 Following : 600
+18.04.2019_19:46 Media : 23
+18.04.2019_19:46    >This is a normal account
+18.04.2019_19:46    >This user is passive
+18.04.2019_19:46    >This account is NOT following you
+18.04.2019_19:46    >You are following this account
+18.04.2019_19:46 patlayan_ayanlar01
+18.04.2019_19:46 Unfollowed: 12017279103 #839.
+18.04.2019_19:46 Get Media by tag: supermoto
+18.04.2019_19:46 Trying to like media: 2024982974925444262
+                 https://www.instagram.com/p/BwaL0lwpRSm/
+18.04.2019_19:46 Liked: 2024982974925444262. Like #2816.
+18.04.2019_19:47 Trying to follow: 2050659621
+18.04.2019_19:47 Followed: 2050659621 #936.
+18.04.2019_19:48 Get Media by tag: s1000rr
+18.04.2019_19:48 Trying to like media: 2024957755294711072
+                 https://www.instagram.com/p/BwaGFmJg30g/
+18.04.2019_19:48 Liked: 2024957755294711072. Like #2817.
+18.04.2019_19:49 Get Media by tag: capeverde
+18.04.2019_19:50 Get Media by tag: capeverde
+18.04.2019_19:50 Trying to like media: 2024960081549231941
+                 https://www.instagram.com/p/BwaGncpFodF/
+18.04.2019_19:50 Liked: 2024960081549231941. Like #2818.
+18.04.2019_19:51 Get Media by tag: belize
+18.04.2019_19:51 bebetofernandes : Get media id on recent feed
+18.04.2019_19:51 Media in recent feed = 12
+18.04.2019_19:51 Trying to unfollow #840:
+18.04.2019_19:51 Getting user info : vamonoscharlie
+18.04.2019_19:51 Checking user info..
+18.04.2019_19:51 Follower : 450
+18.04.2019_19:51 Following : 574
+18.04.2019_19:51 Media : 385
+18.04.2019_19:51    >This is a normal account
+18.04.2019_19:51    >This user is active
+18.04.2019_19:51    >This account is NOT following you
+18.04.2019_19:51    >You are following this account
+18.04.2019_19:51 vamonoscharlie
+18.04.2019_19:51 Unfollowed: 2273928500 #840.
+18.04.2019_19:52 Trying to like media: 2024856268079299047
+                 https://www.instagram.com/p/BwZvAw0Fvnn/
+18.04.2019_19:52 Liked: 2024856268079299047. Like #2819.
+18.04.2019_19:52 Get Media by tag: belize
+18.04.2019_19:52 Trying to follow: 670973860
+18.04.2019_19:52 Followed: 670973860 #937.
+18.04.2019_19:53 Get Media by tag: belize
+18.04.2019_19:54 Trying to like media: 2024964591927586064
+                 https://www.instagram.com/p/BwaHpFQlm0Q/
+18.04.2019_19:54 Liked: 2024964591927586064. Like #2820.
+18.04.2019_19:54 Get Media by tag: belize
+18.04.2019_19:55 Get Media by tag: supermoto
+18.04.2019_19:56 Trying to like media: 2024981709719729275
+                 https://www.instagram.com/p/BwaLiLcgfR7/
+18.04.2019_19:56 Liked: 2024981709719729275. Like #2821.
+18.04.2019_19:56 Trying to unfollow #841:
+18.04.2019_19:56 Getting user info : noneslip
+18.04.2019_19:56 Checking user info..
+18.04.2019_19:56 Follower : 605
+18.04.2019_19:56 Following : 489
+18.04.2019_19:56 Media : 111
+18.04.2019_19:56    >This is a normal account
+18.04.2019_19:56    >This user is active
+18.04.2019_19:56    >This account is NOT following you
+18.04.2019_19:56    >You are following this account
+18.04.2019_19:56 noneslip
+18.04.2019_19:56 Unfollowed: 2030926990 #841.
+18.04.2019_19:57 Get Media by tag: belize
+18.04.2019_19:58 Already followed before 238797388
+18.04.2019_19:58 Trying to like media: 2024960781721093138
+                 https://www.instagram.com/p/BwaGxoulUQS/
+18.04.2019_19:58 Liked: 2024960781721093138. Like #2822.
+18.04.2019_19:58 Get Media by tag: capeverde
+18.04.2019_19:59 Get Media by tag: supermoto
+18.04.2019_19:59 Trying to like media: 2024982167133846459
+                 https://www.instagram.com/p/BwaLo1cg3u7/
+18.04.2019_19:59 Liked: 2024982167133846459. Like #2823.
+18.04.2019_20:00 Get Media by tag: capeverde
+18.04.2019_20:00 Trying to follow: 1922924140
+18.04.2019_20:00 Followed: 1922924140 #938.
+18.04.2019_20:01 Trying to like media: 1610180208617374438
+                 https://www.instagram.com/p/BZYgl5fAMLm/
+18.04.2019_20:01 Liked: 1610180208617374438. Like #2824.
+18.04.2019_20:01 Get Media by tag: supermoto
+18.04.2019_20:02 bebetofernandes : Get media id on recent feed
+18.04.2019_20:02 Media in recent feed = 12
+18.04.2019_20:02 Trying to unfollow #842:
+18.04.2019_20:02 Getting user info : ninaandthewolf
+18.04.2019_20:02 Checking user info..
+18.04.2019_20:02 Follower : 3626
+18.04.2019_20:02 Following : 1409
+18.04.2019_20:02 Media : 1232
+18.04.2019_20:02    >This user is active
+18.04.2019_20:02    >This account is NOT following you
+18.04.2019_20:02    >You are following this account
+18.04.2019_20:02 ninaandthewolf
+18.04.2019_20:02 Unfollowed: 1412105677 #842.
+18.04.2019_20:02 Get Media by tag: s1000rr
+18.04.2019_20:03 Trying to like media: 2024975717663975754
+                 https://www.instagram.com/p/BwaKK-6JylK/
+18.04.2019_20:03 Liked: 2024975717663975754. Like #2825.
+18.04.2019_20:04 Get Media by tag: s1000rr
+18.04.2019_20:05 Get Media by tag: supermoto
+18.04.2019_20:05 Trying to like media: 2024991785394480806
+                 https://www.instagram.com/p/BwaN0zJhaam/
+18.04.2019_20:05 Liked: 2024991785394480806. Like #2826.
+18.04.2019_20:05 Already followed before 8939583768
+18.04.2019_20:06 Get Media by tag: s1000rr
+18.04.2019_20:06 Trying to unfollow #843:
+18.04.2019_20:06 Getting user info : mr._mkk.x
+18.04.2019_20:06 Checking user info..
+18.04.2019_20:06 Follower : 821
+18.04.2019_20:06 Following : 29
+18.04.2019_20:06 Media : 87
+18.04.2019_20:06    >This user is active
+18.04.2019_20:06    >This account is NOT following you
+18.04.2019_20:06    >You are following this account
+18.04.2019_20:06 mr._mkk.x
+18.04.2019_20:06 Unfollowed: 4149655327 #843.
+18.04.2019_20:07 Trying to like media: 2024973232328622789
+                 https://www.instagram.com/p/BwaJm0Qn0LF/
+18.04.2019_20:07 Liked: 2024973232328622789. Like #2827.
+18.04.2019_20:07 Get Media by tag: supermoto
+18.04.2019_20:07 Trying to follow: 2131269649
+18.04.2019_20:07 Followed: 2131269649 #939.
+18.04.2019_20:08 Get Media by tag: supermoto
+18.04.2019_20:08 Trying to like media: 2024993822903389910
+                 https://www.instagram.com/p/BwaOScuhE7W/
+18.04.2019_20:08 Liked: 2024993822903389910. Like #2828.
+18.04.2019_20:09 Get Media by tag: belize
+18.04.2019_20:10 Trying to like media: 2024968472237496989
+                 https://www.instagram.com/p/BwaIhjFFNqd/
+18.04.2019_20:10 Liked: 2024968472237496989. Like #2829.
+18.04.2019_20:10 bebetofernandes : Get media id on recent feed
+18.04.2019_20:10 Media in recent feed = 12
+18.04.2019_20:10 Trying to unfollow #844:
+18.04.2019_20:10 Getting user info : harry_joy07
+18.04.2019_20:10 Checking user info..
+18.04.2019_20:10 Follower : 733
+18.04.2019_20:10 Following : 716
+18.04.2019_20:10 Media : 102
+18.04.2019_20:10    >This is a normal account
+18.04.2019_20:10    >This user is active
+18.04.2019_20:10    >This account is NOT following you
+18.04.2019_20:10    >You are following this account
+18.04.2019_20:10 harry_joy07
+18.04.2019_20:10 Unfollowed: 261373850 #844.
+18.04.2019_20:10 Get Media by tag: supermoto
+18.04.2019_20:12 Get Media by tag: capeverde
+18.04.2019_20:12 Trying to like media: 2024987119415681504
+                 https://www.instagram.com/p/BwaMw5ng2Hg/
+18.04.2019_20:12 Liked: 2024987119415681504. Like #2830.
+18.04.2019_20:12 Trying to follow: 2927473251
+18.04.2019_20:12 Followed: 2927473251 #940.
+18.04.2019_20:13 Get Media by tag: supermoto
+18.04.2019_20:13 Trying to like media: 2024984751195983804
+                 https://www.instagram.com/p/BwaMOcCno-8/
+18.04.2019_20:13 Liked: 2024984751195983804. Like #2831.
+18.04.2019_20:14 Get Media by tag: capeverde
+18.04.2019_20:15 Get Media by tag: supermoto
+18.04.2019_20:15 Trying to like media: 2024995436562795907
+                 https://www.instagram.com/p/BwaOp7kHM2D/
+18.04.2019_20:15 Liked: 2024995436562795907. Like #2832.
+18.04.2019_20:15 Trying to unfollow #845:
+18.04.2019_20:15 Getting user info : jaguar.reef
+18.04.2019_20:15 Checking user info..
+18.04.2019_20:15 Follower : 1421
+18.04.2019_20:15 Following : 376
+18.04.2019_20:15 Media : 156
+18.04.2019_20:15    >This user is active
+18.04.2019_20:15    >This account is NOT following you
+18.04.2019_20:15    >You are following this account
+18.04.2019_20:15 jaguar.reef
+18.04.2019_20:15 Unfollowed: 2234812180 #845.
+18.04.2019_20:16 Get Media by tag: belize
+18.04.2019_20:16 Trying to follow: 2219332790
+18.04.2019_20:16 Followed: 2219332790 #941.
+18.04.2019_20:17 Trying to like media: 2024973096274219854
+                 https://www.instagram.com/p/BwaJk1jJdNO/
+18.04.2019_20:17 Liked: 2024973096274219854. Like #2833.
+18.04.2019_20:17 Get Media by tag: belize
+18.04.2019_20:18 Get Media by tag: supermoto
+18.04.2019_20:19 Trying to like media: 2024985868581785327
+                 https://www.instagram.com/p/BwaMessAM7v/
+18.04.2019_20:19 Liked: 2024985868581785327. Like #2834.
+18.04.2019_20:19 Get Media by tag: belize
+18.04.2019_20:20 bebetofernandes : Get media id on recent feed
+18.04.2019_20:20 Media in recent feed = 12
+18.04.2019_20:20 Trying to unfollow #846:
+18.04.2019_20:20 Getting user info : muhammedmunawar_
+18.04.2019_20:20 Checking user info..
+18.04.2019_20:20 Follower : 1200
+18.04.2019_20:20 Following : 526
+18.04.2019_20:20 Media : 120
+18.04.2019_20:20    >This user is active
+18.04.2019_20:20    >This account is NOT following you
+18.04.2019_20:20    >You are following this account
+18.04.2019_20:20 muhammedmunawar_
+18.04.2019_20:20 Unfollowed: 6961807864 #846.
+18.04.2019_20:20 Get Media by tag: belize
+18.04.2019_20:20 Trying to like media: 2024990670433186677
+                 https://www.instagram.com/p/BwaNkkwpnN1/
+18.04.2019_20:20 Liked: 2024990670433186677. Like #2835.
+18.04.2019_20:21 Get Media by tag: belize
+18.04.2019_20:22 Trying to follow: 361038279
+18.04.2019_20:22 Followed: 361038279 #942.
+18.04.2019_20:22 Trying to like media: 2024974344993455288
+                 https://www.instagram.com/p/BwaJ3AgnTy4/
+18.04.2019_20:22 Liked: 2024974344993455288. Like #2836.
+18.04.2019_20:23 Get Media by tag: capeverde
+18.04.2019_20:24 Get Media by tag: s1000rr
+18.04.2019_20:24 Trying to like media: 2024997947835560368
+                 https://www.instagram.com/p/BwaPOeXojGw/
+18.04.2019_20:24 Liked: 2024997947835560368. Like #2837.
+18.04.2019_20:25 Get Media by tag: s1000rr
+18.04.2019_20:25 Trying to unfollow #847:
+18.04.2019_20:25 Getting user info : schwarzbluthunde
+18.04.2019_20:25 Checking user info..
+18.04.2019_20:25 Follower : 87
+18.04.2019_20:25 Following : 7
+18.04.2019_20:25 Media : 9
+18.04.2019_20:25    >This user is active
+18.04.2019_20:25    >This account is NOT following you
+18.04.2019_20:25    >You are following this account
+18.04.2019_20:25 schwarzbluthunde
+18.04.2019_20:25 Unfollowed: 11836558910 #847.
+18.04.2019_20:26 Trying to like media: 2024973786219981103
+                 https://www.instagram.com/p/BwaJu4HHqkv/
+18.04.2019_20:26 Liked: 2024973786219981103. Like #2838.
+18.04.2019_20:26 Get Media by tag: s1000rr
+18.04.2019_20:27 Trying to follow: 7621955170
+18.04.2019_20:27 Followed: 7621955170 #943.
+18.04.2019_20:27 Get Media by tag: capeverde
+18.04.2019_20:28 Trying to like media: 2024967509770677472
+                 https://www.instagram.com/p/BwaITitlqzg/
+18.04.2019_20:28 Liked: 2024967509770677472. Like #2839.
+18.04.2019_20:28 Get Media by tag: supermoto
+18.04.2019_20:29 Get Media by tag: s1000rr
+18.04.2019_20:29 Trying to like media: 2024999521135568217
+                 https://www.instagram.com/p/BwaPlXnnyVZ/
+18.04.2019_20:29 Liked: 2024999521135568217. Like #2840.
+18.04.2019_20:30 bebetofernandes : Get media id on recent feed
+18.04.2019_20:30 Media in recent feed = 12
+18.04.2019_20:30 Trying to unfollow #848:
+18.04.2019_20:30 Getting user info : as_win_ang_ler
+18.04.2019_20:30 Checking user info..
+18.04.2019_20:30 Follower : 640
+18.04.2019_20:30 Following : 299
+18.04.2019_20:30 Media : 97
+18.04.2019_20:30    >This user is active
+18.04.2019_20:30    >This account is NOT following you
+18.04.2019_20:30    >You are following this account
+18.04.2019_20:30 as_win_ang_ler
+18.04.2019_20:30 Unfollowed: 3564190669 #848.
+18.04.2019_20:30 Get Media by tag: s1000rr
+18.04.2019_20:31 Trying to like media: 2024976797023879916
+                 https://www.instagram.com/p/BwaKasJBELs/
+18.04.2019_20:31 Liked: 2024976797023879916. Like #2841.
+18.04.2019_20:32 Get Media by tag: belize
+18.04.2019_20:32 Trying to follow: 183645035
+18.04.2019_20:32 Followed: 183645035 #944.
+18.04.2019_20:33 Get Media by tag: s1000rr
+18.04.2019_20:33 Trying to like media: 2024994558216943426
+                 https://www.instagram.com/p/BwaOdJinrdC/
+18.04.2019_20:33 Liked: 2024994558216943426. Like #2842.
+18.04.2019_20:34 Get Media by tag: belize
+18.04.2019_20:35 Trying to unfollow #849:
+18.04.2019_20:35 Getting user info : crocodileresearchcoalition
+18.04.2019_20:35 Checking user info..
+18.04.2019_20:35 Follower : 1012
+18.04.2019_20:35 Following : 65
+18.04.2019_20:35 Media : 344
+18.04.2019_20:35    >This user is active
+18.04.2019_20:35    >This account is NOT following you
+18.04.2019_20:35    >You are following this account
+18.04.2019_20:35 crocodileresearchcoalition
+18.04.2019_20:35 Unfollowed: 5378997035 #849.
+18.04.2019_20:35 Get Media by tag: belize
+18.04.2019_20:35 Trying to like media: 2025004808691298259
+                 https://www.instagram.com/p/BwaQyUCgK_T/
+18.04.2019_20:35 Liked: 2025004808691298259. Like #2843.
+18.04.2019_20:36 Get Media by tag: supermoto
+18.04.2019_20:37 Trying to like media: 2024995770251795339
+                 https://www.instagram.com/p/BwaOuyVhtuL/
+18.04.2019_20:37 Liked: 2024995770251795339. Like #2844.
+18.04.2019_20:37 Get Media by tag: capeverde
+18.04.2019_20:37 Trying to follow: 625209632
+18.04.2019_20:37 Followed: 625209632 #945.
+18.04.2019_20:38 Get Media by tag: supermoto
+18.04.2019_20:39 Trying to like media: 2025002931254122852
+                 https://www.instagram.com/p/BwaQW_ihtlk/
+18.04.2019_20:39 Liked: 2025002931254122852. Like #2845.
+18.04.2019_20:39 bebetofernandes : Get media id on recent feed
+18.04.2019_20:39 Media in recent feed = 12
+18.04.2019_20:39 Trying to unfollow #850:
+18.04.2019_20:39 Getting user info : daze16
+18.04.2019_20:39 Checking user info..
+18.04.2019_20:39 Follower : 336
+18.04.2019_20:39 Following : 527
+18.04.2019_20:39 Media : 691
+18.04.2019_20:39    >This is a normal account
+18.04.2019_20:39    >This user is active
+18.04.2019_20:39    >This account is NOT following you
+18.04.2019_20:39    >You are following this account
+18.04.2019_20:39 daze16
+18.04.2019_20:39 Unfollowed: 4780567 #850.
+18.04.2019_20:39 Get Media by tag: capeverde
+18.04.2019_20:40 Trying to like media: 1932497735563733649
+                 https://www.instagram.com/p/BrRnHOhheqR/
+18.04.2019_20:40 Liked: 1932497735563733649. Like #2846.
+18.04.2019_20:40 Get Media by tag: supermoto
+18.04.2019_20:42 Get Media by tag: s1000rr
+18.04.2019_20:42 Trying to like media: 2024985438264908254
+                 https://www.instagram.com/p/BwaMYb7Hlne/
+18.04.2019_20:42 Liked: 2024985438264908254. Like #2847.
+18.04.2019_20:42 Trying to follow: 8291242261
+18.04.2019_20:42 Followed: 8291242261 #946.
+18.04.2019_20:43 Get Media by tag: s1000rr
+18.04.2019_20:44 Get Media by tag: belize
+18.04.2019_20:44 Trying to like media: 2025008433394086352
+                 https://www.instagram.com/p/BwaRnDzn_HQ/
+18.04.2019_20:44 Liked: 2025008433394086352. Like #2848.
+18.04.2019_20:44 Trying to unfollow #851:
+18.04.2019_20:44 Getting user info : caelsa_boavista
+18.04.2019_20:44 Checking user info..
+18.04.2019_20:44 Follower : 54
+18.04.2019_20:44 Following : 71
+18.04.2019_20:44 Media : 18
+18.04.2019_20:44    >This is a normal account
+18.04.2019_20:44    >This user is active
+18.04.2019_20:44    >This account is following you
+18.04.2019_20:44    >You are following this account
+18.04.2019_20:45 Get Media by tag: s1000rr
+18.04.2019_20:46 Trying to like media: 2024977820133624671
+                 https://www.instagram.com/p/BwaKpk_HAtf/
+18.04.2019_20:46 Liked: 2024977820133624671. Like #2849.
+18.04.2019_20:46 Get Media by tag: s1000rr
+18.04.2019_20:47 Get Media by tag: supermoto
+18.04.2019_20:48 Trying to like media: 2025004494614829367
+                 https://www.instagram.com/p/BwaQtviFhk3/
+18.04.2019_20:48 Liked: 2025004494614829367. Like #2850.
+18.04.2019_20:48 Trying to follow: 12840024459
+18.04.2019_20:48 Followed: 12840024459 #947.
+18.04.2019_20:48 Get Media by tag: supermoto
+[1;3A^[[1;3A^[[1;3A^[[1;3A^[[1;3A^[[1;9A[1;9A^[[1;9A^[[A^[[A18.04.2019_20:49 bebetofernandes : Get media id on recent feed
+18.04.2019_20:49 Media in recent feed = 12
+18.04.2019_20:49 Trying to unfollow #851:
+18.04.2019_20:49 Getting user info : karina_nezola
+18.04.2019_20:49 Checking user info..
+18.04.2019_20:49 Follower : 2552
+18.04.2019_20:49 Following : 798
+18.04.2019_20:49 Media : 407
+18.04.2019_20:49    >This user is active
+18.04.2019_20:49    >This account is NOT following you
+18.04.2019_20:49    >You are following this account
+18.04.2019_20:49 karina_nezola
+18.04.2019_20:49 Unfollowed: 1995576615 #851.
+[1;9A^[[1;9A^[[1;9A^[[1;9A^[[1;9A^[[1;9A18.04.2019_20:49 Trying to like media: 2024996151329078747
+                 https://www.instagram.com/p/BwaO0VPgL3b/
+18.04.2019_20:49 Liked: 2024996151329078747. Like #2851.
+18.04.2019_20:49 Get Media by tag: s1000rr
+18.04.2019_20:51 Get Media by tag: supermoto
