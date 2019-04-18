@@ -1,0 +1,2049 @@
+17.04.2019_15:09 Follower : 525
+17.04.2019_15:09 Following : 1029
+17.04.2019_15:09 Media : 876
+17.04.2019_15:09    >This is a normal account
+17.04.2019_15:09    >This user is active
+17.04.2019_15:09    >This account is NOT following you
+17.04.2019_15:09    >You are following this account
+17.04.2019_15:09 alexlee106
+17.04.2019_15:09 Unfollowed: 13859448 #534.
+17.04.2019_15:10 Get Media by tag: follow4follow
+17.04.2019_15:11 Trying to like media: 2024119123755625363
+                 https://www.instagram.com/p/BwXHZ5qh2uT/
+17.04.2019_15:11 Liked: 2024119123755625363. Like #2311.
+17.04.2019_15:11 Get Media by tag: yayarea
+17.04.2019_15:12 Get Media by tag: sanfrancisco
+17.04.2019_15:12 Trying to like media: 2024119140256884942
+                 https://www.instagram.com/p/BwXHaJCFKjO/
+17.04.2019_15:12 Liked: 2024119140256884942. Like #2312.
+17.04.2019_15:13 Get Media by tag: sfbayarea
+17.04.2019_15:14 Trying to like media: 1977858309646333486
+                 https://www.instagram.com/p/Btyw6dKhjYu/
+17.04.2019_15:14 Liked: 1977858309646333486. Like #2313.
+17.04.2019_15:14 Get Media by tag: sfbayarea
+17.04.2019_15:14 Already followed before 10822246
+17.04.2019_15:15 sf_clout : Get media id on recent feed
+17.04.2019_15:15 Media in recent feed = 12
+17.04.2019_15:15 Trying to unfollow #535:
+17.04.2019_15:15 Getting user info : darinsteele
+17.04.2019_15:15 Checking user info..
+17.04.2019_15:15 Follower : 9507
+17.04.2019_15:15 Following : 2810
+17.04.2019_15:15 Media : 124
+17.04.2019_15:15    >This user is passive
+17.04.2019_15:15    >This account is NOT following you
+17.04.2019_15:15    >You are following this account
+17.04.2019_15:15 darinsteele
+17.04.2019_15:15 Unfollowed: 1726514779 #535.
+17.04.2019_15:15 Get Media by tag: yayarea
+17.04.2019_15:15 Get Media by tag: follow4follow
+17.04.2019_15:15 Trying to like media: 2024119200261148749
+                 https://www.instagram.com/p/BwXHbA6nRBN/
+17.04.2019_15:15 Liked: 2024119200261148749. Like #2314.
+17.04.2019_15:16 Get Media by tag: follow4follow
+17.04.2019_15:17 Trying to follow: 6956450074
+17.04.2019_15:17 Followed: 6956450074 #653.
+17.04.2019_15:17 Trying to like media: 2024122308725346395
+                 https://www.instagram.com/p/BwXIIP5hJBb/
+17.04.2019_15:17 Liked: 2024122308725346395. Like #2315.
+17.04.2019_15:18 Get Media by tag: yayarea
+17.04.2019_15:18 Get Media by tag: sfbayarea
+17.04.2019_15:18 Trying to like media: 2024123049607100584
+                 https://www.instagram.com/p/BwXITB5gvio/
+17.04.2019_15:18 Liked: 2024123049607100584. Like #2316.
+17.04.2019_15:19 Get Media by tag: sfbayarea
+17.04.2019_15:19 Trying to like media: 2024099528101276312
+                 https://www.instagram.com/p/BwXC8vygyqY/
+17.04.2019_15:19 Liked: 2024099528101276312. Like #2317.
+17.04.2019_15:20 Trying to unfollow #536:
+17.04.2019_15:20 Getting user info : laudioproductions
+17.04.2019_15:20 Checking user info..
+17.04.2019_15:20 Follower : 507
+17.04.2019_15:20 Following : 513
+17.04.2019_15:20 Media : 34
+17.04.2019_15:20    >This is a normal account
+17.04.2019_15:20    >This user is active
+17.04.2019_15:20    >This account is NOT following you
+17.04.2019_15:20    >You are following this account
+17.04.2019_15:20 laudioproductions
+17.04.2019_15:20 Unfollowed: 1407024758 #536.
+17.04.2019_15:20 Get Media by tag: follow4follow
+17.04.2019_15:21 Trying to like media: 2024087845263114064
+                 https://www.instagram.com/p/BwXASvTF_9Q/
+17.04.2019_15:21 Liked: 2024087845263114064. Like #2318.
+17.04.2019_15:21 Trying to follow: 5738507600
+17.04.2019_15:21 Followed: 5738507600 #654.
+17.04.2019_15:21 Get Media by tag: follow4follow
+17.04.2019_15:22 Trying to like media: 2021048591992614618
+                 https://www.instagram.com/p/BwMNPyHhe7a/
+17.04.2019_15:22 Liked: 2021048591992614618. Like #2319.
+17.04.2019_15:22 Get Media by tag: sanfrancisco
+17.04.2019_15:24 Get Media by tag: follow4follow
+17.04.2019_15:24 Trying to like media: 2024125585183276731
+                 https://www.instagram.com/p/BwXI37VoP67/
+17.04.2019_15:24 Liked: 2024125585183276731. Like #2320.
+17.04.2019_15:25 sf_clout : Get media id on recent feed
+17.04.2019_15:25 Media in recent feed = 12
+17.04.2019_15:25 Trying to unfollow #537:
+17.04.2019_15:25 Getting user info : melosquaad
+17.04.2019_15:25 Checking user info..
+17.04.2019_15:25 Follower : 106
+17.04.2019_15:25 Following : 96
+17.04.2019_15:25 Media : 16
+17.04.2019_15:25    >This is a normal account
+17.04.2019_15:25    >This user is active
+17.04.2019_15:25    >This account is NOT following you
+17.04.2019_15:25    >You are following this account
+17.04.2019_15:25 melosquaad
+17.04.2019_15:25 Unfollowed: 2937376247 #537.
+17.04.2019_15:25 Get Media by tag: sfbayarea
+17.04.2019_15:25 Trying to like media: 2024087753800981489
+                 https://www.instagram.com/p/BwXARaHhpvx/
+17.04.2019_15:25 Liked: 2024087753800981489. Like #2321.
+17.04.2019_15:26 Already followed before 4092835535
+17.04.2019_15:26 Get Media by tag: sanfrancisco
+17.04.2019_15:27 Trying to like media: 1472319550770720612
+                 https://www.instagram.com/p/BRuutSrjS9k/
+17.04.2019_15:27 Liked: 1472319550770720612. Like #2322.
+17.04.2019_15:27 Get Media by tag: sanfrancisco
+17.04.2019_15:28 Trying to follow: 2322485282
+17.04.2019_15:28 Followed: 2322485282 #655.
+17.04.2019_15:28 Get Media by tag: sanfrancisco
+17.04.2019_15:28 Trying to like media: 2024127337134960167
+                 https://www.instagram.com/p/BwXJRa-Fi4n/
+17.04.2019_15:28 Liked: 2024127337134960167. Like #2323.
+17.04.2019_15:29 Trying to unfollow #538:
+17.04.2019_15:29 Getting user info : plsloren
+17.04.2019_15:29 Checking user info..
+17.04.2019_15:29 Follower : 382
+17.04.2019_15:29 Following : 71
+17.04.2019_15:29 Media : 20
+17.04.2019_15:29    >This user is active
+17.04.2019_15:29    >This account is NOT following you
+17.04.2019_15:29    >You are following this account
+17.04.2019_15:29 plsloren
+17.04.2019_15:29 Unfollowed: 12527484419 #538.
+17.04.2019_15:29 Get Media by tag: yayarea
+17.04.2019_15:30 Get Media by tag: sanfrancisco
+17.04.2019_15:30 Trying to like media: 2024128813370576524
+                 https://www.instagram.com/p/BwXJm50lg6M/
+17.04.2019_15:30 Liked: 2024128813370576524. Like #2324.
+17.04.2019_15:31 Get Media by tag: sanfrancisco
+17.04.2019_15:31 Trying to like media: 2024129099873761375
+                 https://www.instagram.com/p/BwXJrEpgbhf/
+17.04.2019_15:31 Liked: 2024129099873761375. Like #2325.
+17.04.2019_15:32 Get Media by tag: sfbayarea
+17.04.2019_15:33 Trying to like media: 2024100014338692358
+                 https://www.instagram.com/p/BwXDD0ohVUG/
+17.04.2019_15:33 Liked: 2024100014338692358. Like #2326.
+17.04.2019_15:33 Already followed before 8146564131
+17.04.2019_15:33 Get Media by tag: yayarea
+17.04.2019_15:34 Get Media by tag: yayarea
+17.04.2019_15:34 sf_clout : Get media id on recent feed
+17.04.2019_15:34 Media in recent feed = 12
+17.04.2019_15:34 Trying to unfollow #539:
+17.04.2019_15:34 Getting user info : mariiicarmen
+17.04.2019_15:34 Checking user info..
+17.04.2019_15:34 Follower : 441
+17.04.2019_15:34 Following : 379
+17.04.2019_15:34 Media : 544
+17.04.2019_15:34    >This is a normal account
+17.04.2019_15:34    >This user is active
+17.04.2019_15:34    >This account is NOT following you
+17.04.2019_15:34    >You are following this account
+17.04.2019_15:34 mariiicarmen
+17.04.2019_15:34 Unfollowed: 9137298 #539.
+17.04.2019_15:34 Get Media by tag: yayarea
+17.04.2019_15:34 Get Media by tag: sanfrancisco
+17.04.2019_15:35 Trying to like media: 2024131329951908709
+                 https://www.instagram.com/p/BwXKLhkhcNl/
+17.04.2019_15:35 Liked: 2024131329951908709. Like #2327.
+17.04.2019_15:35 Trying to follow: 11539465600
+17.04.2019_15:35 Followed: 11539465600 #656.
+17.04.2019_15:36 Get Media by tag: follow4follow
+17.04.2019_15:36 Trying to like media: 2024131986135549490
+                 https://www.instagram.com/p/BwXKVEsHYYy/
+17.04.2019_15:36 Liked: 2024131986135549490. Like #2328.
+17.04.2019_15:37 Get Media by tag: sanfrancisco
+17.04.2019_15:38 Trying to like media: 2024130559351420689
+                 https://www.instagram.com/p/BwXKAT5J3cR/
+17.04.2019_15:38 Liked: 2024130559351420689. Like #2329.
+17.04.2019_15:38 Get Media by tag: follow4follow
+17.04.2019_15:38 Trying to unfollow #540:
+17.04.2019_15:38 Getting user info : hibbettantioch
+17.04.2019_15:38 Checking user info..
+17.04.2019_15:38 Follower : 373
+17.04.2019_15:38 Following : 1003
+17.04.2019_15:38 Media : 59
+17.04.2019_15:38    >This is probably Fake account
+17.04.2019_15:38    >This user is active
+17.04.2019_15:38    >This account is NOT following you
+17.04.2019_15:38    >You are following this account
+17.04.2019_15:38 hibbettantioch
+17.04.2019_15:38 Unfollowed: 9454179152 #540.
+17.04.2019_15:39 Trying to like media: 2023769827119539918
+                 https://www.instagram.com/p/BwV3-90nSbO/
+17.04.2019_15:39 Liked: 2023769827119539918. Like #2330.
+17.04.2019_15:39 Get Media by tag: follow4follow
+17.04.2019_15:40 Get Media by tag: yayarea
+17.04.2019_15:40 Trying to like media: 2024128138212482103
+                 https://www.instagram.com/p/BwXJdFCBxw3/
+17.04.2019_15:40 Liked: 2024128138212482103. Like #2331.
+17.04.2019_15:40 Trying to follow: 11079462528
+17.04.2019_15:40 Followed: 11079462528 #657.
+17.04.2019_15:41 Get Media by tag: sanfrancisco
+17.04.2019_15:42 Trying to like media: 2023550485361023215
+                 https://www.instagram.com/p/BwVGHH5A1jv/
+17.04.2019_15:42 Liked: 2023550485361023215. Like #2332.
+17.04.2019_15:42 Get Media by tag: sfbayarea
+17.04.2019_15:43 Get Media by tag: yayarea
+17.04.2019_15:43 sf_clout : Get media id on recent feed
+17.04.2019_15:43 Media in recent feed = 12
+17.04.2019_15:43 Trying to unfollow #541:
+17.04.2019_15:43 Getting user info : jen.finds.out
+17.04.2019_15:43 Checking user info..
+17.04.2019_15:43 Follower : 132
+17.04.2019_15:43 Following : 240
+17.04.2019_15:43 Media : 120
+17.04.2019_15:43    >This is a normal account
+17.04.2019_15:43    >This user is active
+17.04.2019_15:43    >This account is following you
+17.04.2019_15:43    >You are following this account
+17.04.2019_15:43 Get Media by tag: sfbayarea
+17.04.2019_15:43 Trying to like media: 2024135638156213710
+                 https://www.instagram.com/p/BwXLKN5gn3O/
+17.04.2019_15:43 Liked: 2024135638156213710. Like #2333.
+17.04.2019_15:44 Get Media by tag: yayarea
+17.04.2019_15:45 Get Media by tag: yayarea
+17.04.2019_15:45 Trying to like media: 2024116343704843315
+                 https://www.instagram.com/p/BwXGxcilvQz/
+17.04.2019_15:45 Liked: 2024116343704843315. Like #2334.
+17.04.2019_15:45 Get Media by tag: sanfrancisco
+17.04.2019_15:46 Trying to follow: 253131772
+17.04.2019_15:46 Followed: 253131772 #658.
+17.04.2019_15:46 Trying to like media: 2024092789574487585
+                 https://www.instagram.com/p/BwXBasDBE4h/
+17.04.2019_15:46 Liked: 2024092789574487585. Like #2335.
+17.04.2019_15:47 Get Media by tag: follow4follow
+17.04.2019_15:48 Trying to unfollow #541:
+17.04.2019_15:48 Getting user info : alexandremonntoya
+17.04.2019_15:48 Checking user info..
+17.04.2019_15:48 Follower : 1176
+17.04.2019_15:48 Following : 295
+17.04.2019_15:48 Media : 110
+17.04.2019_15:48    >This user is active
+17.04.2019_15:48    >This account is following you
+17.04.2019_15:48    >You are following this account
+17.04.2019_15:48 Get Media by tag: yayarea
+17.04.2019_15:48 Get Media by tag: sanfrancisco
+17.04.2019_15:48 Trying to like media: 2024138331486448913
+                 https://www.instagram.com/p/BwXLxaQgG0R/
+17.04.2019_15:48 Liked: 2024138331486448913. Like #2336.
+17.04.2019_15:49 Get Media by tag: sanfrancisco
+17.04.2019_15:50 Trying to like media: 2024138251677275988
+                 https://www.instagram.com/p/BwXLwP7gRdU/
+17.04.2019_15:50 Liked: 2024138251677275988. Like #2337.
+17.04.2019_15:50 Get Media by tag: follow4follow
+17.04.2019_15:50 Trying to follow: 484678501
+17.04.2019_15:50 Followed: 484678501 #659.
+17.04.2019_15:51 Get Media by tag: sanfrancisco
+17.04.2019_15:51 Trying to like media: 2024139269735626742
+                 https://www.instagram.com/p/BwXL_EEgrf2/
+17.04.2019_15:51 Liked: 2024139269735626742. Like #2338.
+17.04.2019_15:52 Get Media by tag: follow4follow
+17.04.2019_15:52 Trying to like media: 2024140183305567539
+                 https://www.instagram.com/p/BwXMMW5hb0z/
+17.04.2019_15:52 Liked: 2024140183305567539. Like #2339.
+17.04.2019_15:53 sf_clout : Get media id on recent feed
+17.04.2019_15:53 Media in recent feed = 12
+17.04.2019_15:53 Trying to unfollow #541:
+17.04.2019_15:53 Getting user info : mortgagemaverick
+17.04.2019_15:53 Checking user info..
+17.04.2019_15:53 Follower : 87
+17.04.2019_15:53 Following : 35
+17.04.2019_15:53 Media : 39
+17.04.2019_15:53    >This user is active
+17.04.2019_15:53    >This account is NOT following you
+17.04.2019_15:53    >You are following this account
+17.04.2019_15:53 mortgagemaverick
+17.04.2019_15:53 Unfollowed: 10491745181 #541.
+17.04.2019_15:53 Get Media by tag: yayarea
+17.04.2019_15:54 Get Media by tag: sfbayarea
+17.04.2019_15:54 Trying to like media: 2024128312552464431
+                 https://www.instagram.com/p/BwXJfnZgCAv/
+17.04.2019_15:54 Liked: 2024128312552464431. Like #2340.
+17.04.2019_15:55 Get Media by tag: sfbayarea
+17.04.2019_15:55 Already followed before 10822246
+17.04.2019_15:55 Trying to like media: 2002688093324756315
+                 https://www.instagram.com/p/BvK-jXOhsVb/
+17.04.2019_15:55 Liked: 2002688093324756315. Like #2341.
+17.04.2019_15:56 Get Media by tag: sanfrancisco
+17.04.2019_15:57 Get Media by tag: sfbayarea
+17.04.2019_15:57 Trying to like media: 2024142187738082352
+                 https://www.instagram.com/p/BwXMphrAqww/
+17.04.2019_15:57 Liked: 2024142187738082352. Like #2342.
+17.04.2019_15:57 Trying to unfollow #542:
+17.04.2019_15:57 Getting user info : diontheastonishing
+17.04.2019_15:57 Checking user info..
+17.04.2019_15:57 Follower : 602
+17.04.2019_15:57 Following : 1217
+17.04.2019_15:57 Media : 1886
+17.04.2019_15:57    >This is probably Fake account
+17.04.2019_15:57    >This user is active
+17.04.2019_15:57    >This account is NOT following you
+17.04.2019_15:57    >You are following this account
+17.04.2019_15:57 diontheastonishing
+17.04.2019_15:57 Unfollowed: 286996938 #542.
+17.04.2019_15:57 Already followed before 10822246
+17.04.2019_15:58 Get Media by tag: sfbayarea
+17.04.2019_15:58 Trying to like media: 2024113963737857393
+                 https://www.instagram.com/p/BwXGO0BgL1x/
+17.04.2019_15:58 Liked: 2024113963737857393. Like #2343.
+17.04.2019_15:59 Get Media by tag: follow4follow
+17.04.2019_16:00 Trying to like media: 2024072915460652064
+                 https://www.instagram.com/p/BwW85e1hXwg/
+17.04.2019_16:00 Liked: 2024072915460652064. Like #2344.
+17.04.2019_16:00 Trying to follow: 2249178451
+17.04.2019_16:00 Followed: 2249178451 #660.
+17.04.2019_16:00 Get Media by tag: yayarea
+17.04.2019_16:01 Get Media by tag: follow4follow
+17.04.2019_16:01 Trying to like media: 2024144294731815781
+                 https://www.instagram.com/p/BwXNIL9n5tl/
+17.04.2019_16:01 Liked: 2024144294731815781. Like #2345.
+17.04.2019_16:02 Get Media by tag: sfbayarea
+17.04.2019_16:02 sf_clout : Get media id on recent feed
+17.04.2019_16:02 Media in recent feed = 12
+17.04.2019_16:02 Trying to unfollow #543:
+17.04.2019_16:02 Getting user info : limerencebeautyco
+17.04.2019_16:02 Checking user info..
+17.04.2019_16:02 Follower : 1125
+17.04.2019_16:02 Following : 339
+17.04.2019_16:02 Media : 230
+17.04.2019_16:02    >This user is active
+17.04.2019_16:02    >This account is NOT following you
+17.04.2019_16:02    >You are following this account
+17.04.2019_16:02 limerencebeautyco
+17.04.2019_16:02 Unfollowed: 1112964246 #543.
+17.04.2019_16:03 Trying to like media: 1896886886904235381
+                 https://www.instagram.com/p/BpTGJLRBgV1/
+17.04.2019_16:03 Liked: 1896886886904235381. Like #2346.
+17.04.2019_16:03 Get Media by tag: sfbayarea
+17.04.2019_16:04 Get Media by tag: sfbayarea
+17.04.2019_16:04 Trying to like media: 2024122192568949451
+                 https://www.instagram.com/p/BwXIGjuDprL/
+17.04.2019_16:04 Liked: 2024122192568949451. Like #2347.
+17.04.2019_16:05 Get Media by tag: sfbayarea
+17.04.2019_16:05 Trying to follow: 7922367513
+17.04.2019_16:05 Followed: 7922367513 #661.
+17.04.2019_16:06 Trying to like media: 1975054299252046903
+                 https://www.instagram.com/p/BtozWu_Brw3/
+17.04.2019_16:06 Liked: 1975054299252046903. Like #2348.
+17.04.2019_16:06 Get Media by tag: sanfrancisco
+17.04.2019_16:06 Trying to unfollow #544:
+17.04.2019_16:06 Getting user info : tbrownmodeling
+17.04.2019_16:06 Checking user info..
+17.04.2019_16:06 Follower : 20
+17.04.2019_16:06 Following : 10
+17.04.2019_16:06 Media : 5
+17.04.2019_16:06    >This is a normal account
+17.04.2019_16:06    >This user is active
+17.04.2019_16:06    >This account is following you
+17.04.2019_16:06    >You are following this account
+17.04.2019_16:07 Get Media by tag: sfbayarea
+17.04.2019_16:07 Trying to like media: 2024147698382334601
+                 https://www.instagram.com/p/BwXN5t3AOqJ/
+17.04.2019_16:07 Liked: 2024147698382334601. Like #2349.
+17.04.2019_16:08 Get Media by tag: sfbayarea
+17.04.2019_16:08 Trying to like media: 2024129659855316448
+                 https://www.instagram.com/p/BwXJzOLAiXg/
+17.04.2019_16:08 Liked: 2024129659855316448. Like #2350.
+17.04.2019_16:09 Get Media by tag: sanfrancisco
+17.04.2019_16:10 Trying to like media: 2024146494382290373
+                 https://www.instagram.com/p/BwXNoMjAjXF/
+17.04.2019_16:10 Liked: 2024146494382290373. Like #2351.
+17.04.2019_16:10 Trying to follow: 4324971501
+17.04.2019_16:10 Followed: 4324971501 #662.
+17.04.2019_16:10 Get Media by tag: follow4follow
+17.04.2019_16:11 sf_clout : Get media id on recent feed
+17.04.2019_16:11 Media in recent feed = 12
+17.04.2019_16:11 Trying to unfollow #544:
+17.04.2019_16:11 Getting user info : artduart.eu
+17.04.2019_16:11 Checking user info..
+17.04.2019_16:11 Follower : 777
+17.04.2019_16:11 Following : 1626
+17.04.2019_16:11 Media : 139
+17.04.2019_16:11    >This is probably Fake account
+17.04.2019_16:11    >This user is active
+17.04.2019_16:11    >This account is NOT following you
+17.04.2019_16:11    >You are following this account
+17.04.2019_16:11 artduart.eu
+17.04.2019_16:11 Unfollowed: 8014872480 #544.
+17.04.2019_16:11 Trying to like media: 1990012105994459197
+                 https://www.instagram.com/p/Bud8XeEhtg9/
+17.04.2019_16:11 Liked: 1990012105994459197. Like #2352.
+17.04.2019_16:11 Get Media by tag: sanfrancisco
+17.04.2019_16:13 Get Media by tag: yayarea
+17.04.2019_16:13 Trying to like media: 2024112376069775233
+                 https://www.instagram.com/p/BwXF3tZHF-B/
+17.04.2019_16:13 Liked: 2024112376069775233. Like #2353.
+17.04.2019_16:13 Get Media by tag: yayarea
+17.04.2019_16:13 Get Media by tag: sfbayarea
+17.04.2019_16:14 Trying to like media: 2024128865009500900
+                 https://www.instagram.com/p/BwXJnp6gYLk/
+17.04.2019_16:14 Liked: 2024128865009500900. Like #2354.
+17.04.2019_16:14 Get Media by tag: follow4follow
+17.04.2019_16:15 Trying to follow: 5525713308
+17.04.2019_16:15 Followed: 5525713308 #663.
+17.04.2019_16:15 Trying to like media: 2024110654834743648
+                 https://www.instagram.com/p/BwXFeqXghlg/
+17.04.2019_16:15 Liked: 2024110654834743648. Like #2355.
+17.04.2019_16:16 Get Media by tag: sanfrancisco
+17.04.2019_16:16 Trying to unfollow #545:
+17.04.2019_16:16 Getting user info : donaviolitanew
+17.04.2019_16:16 Checking user info..
+17.04.2019_16:16 Follower : 5559
+17.04.2019_16:16 Following : 5245
+17.04.2019_16:16 Media : 8103
+17.04.2019_16:16    >This is a normal account
+17.04.2019_16:16    >This user is active
+17.04.2019_16:16    >This account is NOT following you
+17.04.2019_16:16    >You are following this account
+17.04.2019_16:16 donaviolitanew
+17.04.2019_16:16 Unfollowed: 9478628095 #545.
+17.04.2019_16:17 Get Media by tag: sanfrancisco
+17.04.2019_16:17 Trying to like media: 2024152564716330836
+                 https://www.instagram.com/p/BwXPAh_HN9U/
+17.04.2019_16:17 Liked: 2024152564716330836. Like #2356.
+17.04.2019_16:18 Get Media by tag: sanfrancisco
+17.04.2019_16:18 Trying to like media: 2024152516127905020
+                 https://www.instagram.com/p/BwXO_0vBFT8/
+17.04.2019_16:18 Liked: 2024152516127905020. Like #2357.
+17.04.2019_16:19 Get Media by tag: sfbayarea
+17.04.2019_16:20 Trying to like media: 2024114884439753670
+                 https://www.instagram.com/p/BwXGcNfnMPG/
+17.04.2019_16:20 Liked: 2024114884439753670. Like #2358.
+17.04.2019_16:20 Already followed before 5700861011
+17.04.2019_16:20 Get Media by tag: sfbayarea
+17.04.2019_16:21 sf_clout : Get media id on recent feed
+17.04.2019_16:21 Media in recent feed = 12
+17.04.2019_16:21 Trying to unfollow #546:
+17.04.2019_16:21 Getting user info : love_fashionbrand_
+17.04.2019_16:21 Checking user info..
+17.04.2019_16:21 Follower : 1187
+17.04.2019_16:21 Following : 299
+17.04.2019_16:21 Media : 4064
+17.04.2019_16:21    >This user is active
+17.04.2019_16:21    >This account is NOT following you
+17.04.2019_16:21    >You are following this account
+17.04.2019_16:21 love_fashionbrand_
+17.04.2019_16:21 Unfollowed: 4658981628 #546.
+17.04.2019_16:21 Get Media by tag: follow4follow
+17.04.2019_16:21 Trying to like media: 2024154833883262148
+                 https://www.instagram.com/p/BwXPhjUAGzE/
+17.04.2019_16:21 Liked: 2024154833883262148. Like #2359.
+17.04.2019_16:22 Get Media by tag: follow4follow
+17.04.2019_16:23 Trying to follow: 6961832213
+17.04.2019_16:23 Followed: 6961832213 #664.
+17.04.2019_16:23 Trying to like media: 2024155453191032572
+                 https://www.instagram.com/p/BwXPqkFnw78/
+17.04.2019_16:23 Liked: 2024155453191032572. Like #2360.
+17.04.2019_16:24 Get Media by tag: sfbayarea
+17.04.2019_16:24 Trying to like media: 2024129100116942396
+                 https://www.instagram.com/p/BwXJrE4AF48/
+17.04.2019_16:24 Liked: 2024129100116942396. Like #2361.
+17.04.2019_16:24 Get Media by tag: sanfrancisco
+17.04.2019_16:25 Trying to like media: 2024153917185557940
+                 https://www.instagram.com/p/BwXPUNkj4W0/
+17.04.2019_16:25 Liked: 2024153917185557940. Like #2362.
+17.04.2019_16:26 Get Media by tag: sanfrancisco
+17.04.2019_16:26 Trying to unfollow #547:
+17.04.2019_16:26 Getting user info : heybenallen
+17.04.2019_16:26 Checking user info..
+17.04.2019_16:26 Follower : 5303
+17.04.2019_16:26 Following : 3981
+17.04.2019_16:26 Media : 1694
+17.04.2019_16:26    >This is a normal account
+17.04.2019_16:26    >This user is active
+17.04.2019_16:26    >This account is NOT following you
+17.04.2019_16:26    >You are following this account
+17.04.2019_16:26 heybenallen
+17.04.2019_16:26 Unfollowed: 28214408 #547.
+17.04.2019_16:27 Get Media by tag: sanfrancisco
+17.04.2019_16:27 Trying to like media: 2024157311543505565
+                 https://www.instagram.com/p/BwXQFm0D3Kd/
+17.04.2019_16:27 Liked: 2024157311543505565. Like #2363.
+17.04.2019_16:28 Trying to follow: 7273048785
+17.04.2019_16:28 Followed: 7273048785 #665.
+17.04.2019_16:28 Get Media by tag: yayarea
+17.04.2019_16:29 Get Media by tag: yayarea
+17.04.2019_16:29 Trying to like media: 2024157033921622090
+                 https://www.instagram.com/p/BwXQBkQgbBK/
+17.04.2019_16:29 Liked: 2024157033921622090. Like #2364.
+17.04.2019_16:29 Get Media by tag: follow4follow
+17.04.2019_16:30 Trying to like media: 1972003048261561734
+                 https://www.instagram.com/p/Btd9lMDni2G/
+17.04.2019_16:30 Liked: 1972003048261561734. Like #2365.
+17.04.2019_16:30 Get Media by tag: yayarea
+17.04.2019_16:30 sf_clout : Get media id on recent feed
+17.04.2019_16:30 Media in recent feed = 12
+17.04.2019_16:30 Trying to unfollow #548:
+17.04.2019_16:30 Getting user info : goodly.glr
+17.04.2019_16:30 Checking user info..
+17.04.2019_16:30 Follower : 215
+17.04.2019_16:30 Following : 227
+17.04.2019_16:30 Media : 17
+17.04.2019_16:30    >This is a normal account
+17.04.2019_16:30    >This user is active
+17.04.2019_16:30    >This account is NOT following you
+17.04.2019_16:30    >You are following this account
+17.04.2019_16:30 goodly.glr
+17.04.2019_16:30 Unfollowed: 6956450074 #548.
+17.04.2019_16:31 Get Media by tag: sfbayarea
+17.04.2019_16:32 Get Media by tag: yayarea
+17.04.2019_16:32 Trying to like media: 2024151427111625561
+                 https://www.instagram.com/p/BwXOv-glqNZ/
+17.04.2019_16:32 Liked: 2024151427111625561. Like #2366.
+17.04.2019_16:32 Get Media by tag: follow4follow
+17.04.2019_16:33 Trying to follow: 1456827945
+17.04.2019_16:33 Followed: 1456827945 #666.
+17.04.2019_16:33 Trying to like media: 2017805522576743354
+                 https://www.instagram.com/p/BwAr26XAhu6/
+17.04.2019_16:33 Liked: 2017805522576743354. Like #2367.
+17.04.2019_16:33 Get Media by tag: sanfrancisco
+17.04.2019_16:34 Get Media by tag: sanfrancisco
+17.04.2019_16:35 Trying to like media: 2024152361609642022
+                 https://www.instagram.com/p/BwXO9k1AsAm/
+17.04.2019_16:35 Liked: 2024152361609642022. Like #2368.
+17.04.2019_16:35 Trying to unfollow #549:
+17.04.2019_16:35 Getting user info : californiahomeapparel
+17.04.2019_16:35 Checking user info..
+17.04.2019_16:35 Follower : 1058
+17.04.2019_16:35 Following : 700
+17.04.2019_16:35 Media : 918
+17.04.2019_16:35    >This is a normal account
+17.04.2019_16:35    >This user is active
+17.04.2019_16:35    >This account is NOT following you
+17.04.2019_16:35    >You are following this account
+17.04.2019_16:35 californiahomeapparel
+17.04.2019_16:35 Unfollowed: 6852829424 #549.
+17.04.2019_16:36 Get Media by tag: follow4follow
+17.04.2019_16:36 Trying to like media: 2024162116059185440
+                 https://www.instagram.com/p/BwXRLhXgsEg/
+17.04.2019_16:36 Liked: 2024162116059185440. Like #2369.
+17.04.2019_16:37 Get Media by tag: sfbayarea
+17.04.2019_16:37 Trying to follow: 2023637076
+17.04.2019_16:38 Followed: 2023637076 #667.
+17.04.2019_16:38 Trying to like media: 2024112905734984364
+                 https://www.instagram.com/p/BwXF_arnhKs/
+17.04.2019_16:38 Liked: 2024112905734984364. Like #2370.
+17.04.2019_16:38 Get Media by tag: sanfrancisco
+17.04.2019_16:39 Get Media by tag: sanfrancisco
+17.04.2019_16:39 Trying to like media: 2024163755237391163
+                 https://www.instagram.com/p/BwXRjX-JTs7/
+17.04.2019_16:39 Liked: 2024163755237391163. Like #2371.
+17.04.2019_16:40 Get Media by tag: sfbayarea
+17.04.2019_16:40 sf_clout : Get media id on recent feed
+17.04.2019_16:40 Media in recent feed = 12
+17.04.2019_16:40 Trying to unfollow #550:
+17.04.2019_16:40 Getting user info : ju_hyun97
+17.04.2019_16:40 Checking user info..
+17.04.2019_16:40 Follower : 188
+17.04.2019_16:40 Following : 39
+17.04.2019_16:40 Media : 4
+17.04.2019_16:40    >This user is passive
+17.04.2019_16:40    >This account is NOT following you
+17.04.2019_16:40    >You are following this account
+17.04.2019_16:40 ju_hyun97
+17.04.2019_16:40 Unfollowed: 1745109473 #550.
+17.04.2019_16:41 Trying to like media: 2024143211651784318
+                 https://www.instagram.com/p/BwXM4bRBd5-/
+17.04.2019_16:41 Liked: 2024143211651784318. Like #2372.
+17.04.2019_16:41 Get Media by tag: sanfrancisco
+17.04.2019_16:42 Trying to like media: 2024162712944483399
+                 https://www.instagram.com/p/BwXRUNQpZxH/
+17.04.2019_16:42 Liked: 2024162712944483399. Like #2373.
+17.04.2019_16:42 Get Media by tag: yayarea
+17.04.2019_16:43 Already followed before 191662397
+17.04.2019_16:43 Get Media by tag: sanfrancisco
+17.04.2019_16:43 Trying to like media: 2024163772960257554
+                 https://www.instagram.com/p/BwXRjoegrYS/
+17.04.2019_16:43 Liked: 2024163772960257554. Like #2374.
+17.04.2019_16:44 Get Media by tag: yayarea
+17.04.2019_16:44 Get Media by tag: follow4follow
+17.04.2019_16:45 Trying to unfollow #551:
+17.04.2019_16:45 Getting user info : pichayanee.k
+17.04.2019_16:45 Checking user info..
+17.04.2019_16:45 Follower : 532
+17.04.2019_16:45 Following : 491
+17.04.2019_16:45 Media : 3756
+17.04.2019_16:45    >This is a normal account
+17.04.2019_16:45    >This user is active
+17.04.2019_16:45    >This account is NOT following you
+17.04.2019_16:45    >You are following this account
+17.04.2019_16:45 pichayanee.k
+17.04.2019_16:45 Unfollowed: 10470771 #551.
+17.04.2019_16:45 Trying to follow: 9175325021
+17.04.2019_16:45 Followed: 9175325021 #668.
+17.04.2019_16:45 Trying to like media: 2024166481726814022
+                 https://www.instagram.com/p/BwXSLDNlDdG/
+17.04.2019_16:45 Liked: 2024166481726814022. Like #2375.
+17.04.2019_16:46 Get Media by tag: follow4follow
+17.04.2019_16:47 Trying to like media: 2024155867452083046
+                 https://www.instagram.com/p/BwXPwl5gQtm/
+17.04.2019_16:47 Liked: 2024155867452083046. Like #2376.
+17.04.2019_16:47 Get Media by tag: sanfrancisco
+17.04.2019_16:48 Trying to like media: 2024164529109261535
+                 https://www.instagram.com/p/BwXRuosgNzf/
+17.04.2019_16:48 Liked: 2024164529109261535. Like #2377.
+17.04.2019_16:48 Get Media by tag: sanfrancisco
+17.04.2019_16:49 sf_clout : Get media id on recent feed
+17.04.2019_16:49 Media in recent feed = 12
+17.04.2019_16:49 Trying to unfollow #552:
+17.04.2019_16:49 Getting user info : ceramicforsale.cz
+17.04.2019_16:49 Checking user info..
+17.04.2019_16:49 Follower : 1038
+17.04.2019_16:49 Following : 742
+17.04.2019_16:49 Media : 7071
+17.04.2019_16:49    >This is a normal account
+17.04.2019_16:49    >This user is active
+17.04.2019_16:49    >This account is NOT following you
+17.04.2019_16:49    >You are following this account
+17.04.2019_16:49 ceramicforsale.cz
+17.04.2019_16:49 Unfollowed: 7936905526 #552.
+17.04.2019_16:49 Get Media by tag: sanfrancisco
+17.04.2019_16:49 Trying to like media: 2024168910437361645
+                 https://www.instagram.com/p/BwXSuZIAift/
+17.04.2019_16:49 Liked: 2024168910437361645. Like #2378.
+17.04.2019_16:50 Trying to follow: 1560072132
+17.04.2019_16:50 Followed: 1560072132 #669.
+17.04.2019_16:50 Get Media by tag: yayarea
+17.04.2019_16:51 Get Media by tag: follow4follow
+17.04.2019_16:51 Trying to like media: 2024169948812761811
+                 https://www.instagram.com/p/BwXS9gMAVrT/
+17.04.2019_16:51 Liked: 2024169948812761811. Like #2379.
+17.04.2019_16:52 Get Media by tag: follow4follow
+17.04.2019_16:52 Trying to like media: 2024170470955182070
+                 https://www.instagram.com/p/BwXTFGeHmf2/
+17.04.2019_16:52 Liked: 2024170470955182070. Like #2380.
+17.04.2019_16:53 Get Media by tag: sanfrancisco
+17.04.2019_16:54 Trying to unfollow #553:
+17.04.2019_16:54 Getting user info : solojackets
+17.04.2019_16:54 Checking user info..
+17.04.2019_16:54 Follower : 5804
+17.04.2019_16:54 Following : 1084
+17.04.2019_16:54 Media : 319
+17.04.2019_16:54    >This user is active
+17.04.2019_16:54    >This account is NOT following you
+17.04.2019_16:54    >You are following this account
+17.04.2019_16:54 solojackets
+17.04.2019_16:54 Unfollowed: 6620758238 #553.
+17.04.2019_16:54 Trying to like media: 2024169834971336682
+                 https://www.instagram.com/p/BwXS72Khw_q/
+17.04.2019_16:54 Liked: 2024169834971336682. Like #2381.
+17.04.2019_16:55 Get Media by tag: yayarea
+17.04.2019_16:55 Get Media by tag: sanfrancisco
+17.04.2019_16:55 Trying to like media: 2024171433866244835
+                 https://www.instagram.com/p/BwXTTHQFzLj/
+17.04.2019_16:55 Liked: 2024171433866244835. Like #2382.
+17.04.2019_16:55 Trying to follow: 5829690913
+17.04.2019_16:55 Followed: 5829690913 #670.
+17.04.2019_16:56 Get Media by tag: sanfrancisco
+17.04.2019_16:57 Trying to like media: 2024152920150049516
+                 https://www.instagram.com/p/BwXPFtAnQLs/
+17.04.2019_16:57 Liked: 2024152920150049516. Like #2383.
+17.04.2019_16:58 Get Media by tag: yayarea
+17.04.2019_16:58 Get Media by tag: sanfrancisco
+17.04.2019_16:58 Trying to like media: 2024173589696584362
+                 https://www.instagram.com/p/BwXTyfBl5qq/
+17.04.2019_16:58 Liked: 2024173589696584362. Like #2384.
+17.04.2019_16:58 sf_clout : Get media id on recent feed
+17.04.2019_16:58 Media in recent feed = 12
+17.04.2019_16:58 Trying to unfollow #554:
+17.04.2019_16:58 Getting user info : motivational.001
+17.04.2019_16:58 Checking user info..
+17.04.2019_16:58 Follower : 66
+17.04.2019_16:58 Following : 10
+17.04.2019_16:58 Media : 4
+17.04.2019_16:58    >This user is active
+17.04.2019_16:58    >This account is NOT following you
+17.04.2019_16:58    >You are following this account
+17.04.2019_16:58 motivational.001
+17.04.2019_16:58 Unfollowed: 9476073263 #554.
+17.04.2019_16:59 Get Media by tag: sfbayarea
+17.04.2019_17:00 Trying to like media: 2024169589891278245
+                 https://www.instagram.com/p/BwXS4R6niWl/
+17.04.2019_17:00 Liked: 2024169589891278245. Like #2385.
+17.04.2019_17:00 Get Media by tag: sfbayarea
+17.04.2019_17:01 Already followed before 10822246
+17.04.2019_17:01 Trying to like media: 2024157706530576813
+                 https://www.instagram.com/p/BwXQLWrH9mt/
+17.04.2019_17:01 Liked: 2024157706530576813. Like #2386.
+17.04.2019_17:02 Get Media by tag: yayarea
+17.04.2019_17:02 Get Media by tag: sfbayarea
+17.04.2019_17:02 Trying to like media: 2024172873156953302
+                 https://www.instagram.com/p/BwXToDsgITW/
+17.04.2019_17:02 Liked: 2024172873156953302. Like #2387.
+17.04.2019_17:03 Already followed before 5700861011
+17.04.2019_17:03 Get Media by tag: follow4follow
+17.04.2019_17:03 Trying to unfollow #555:
+17.04.2019_17:03 Getting user info : yogaastrology
+17.04.2019_17:03 Checking user info..
+17.04.2019_17:03 Follower : 943
+17.04.2019_17:03 Following : 957
+17.04.2019_17:03 Media : 10
+17.04.2019_17:03    >This is a normal account
+17.04.2019_17:03    >This user is passive
+17.04.2019_17:03    >This account is NOT following you
+17.04.2019_17:03    >You are following this account
+17.04.2019_17:03 yogaastrology
+17.04.2019_17:03 Unfollowed: 4535856582 #555.
+17.04.2019_17:04 Trying to like media: 2024176010773247638
+                 https://www.instagram.com/p/BwXUVt1AbaW/
+17.04.2019_17:04 Liked: 2024176010773247638. Like #2388.
+17.04.2019_17:04 Get Media by tag: sanfrancisco
+17.04.2019_17:05 Trying to like media: 2024174542339342239
+                 https://www.instagram.com/p/BwXUAWPhn-f/
+17.04.2019_17:05 Liked: 2024174542339342239. Like #2389.
+17.04.2019_17:06 Get Media by tag: sfbayarea
+17.04.2019_17:06 Trying to follow: 7338307159
+17.04.2019_17:06 Followed: 7338307159 #671.
+17.04.2019_17:07 Trying to like media: 2024134010767411334
+                 https://www.instagram.com/p/BwXKyiRlAiG/
+17.04.2019_17:07 Liked: 2024134010767411334. Like #2390.
+17.04.2019_17:07 Get Media by tag: yayarea
+17.04.2019_17:07 Get Media by tag: yayarea
+17.04.2019_17:08 Get Media by tag: sfbayarea
+17.04.2019_17:08 Trying to like media: 2024177072361203672
+                 https://www.instagram.com/p/BwXUlKglGfY/
+17.04.2019_17:08 Liked: 2024177072361203672. Like #2391.
+17.04.2019_17:08 sf_clout : Get media id on recent feed
+17.04.2019_17:08 Media in recent feed = 12
+17.04.2019_17:08 Trying to unfollow #556:
+17.04.2019_17:08 Getting user info : leo_the_iron_lion
+17.04.2019_17:08 Checking user info..
+17.04.2019_17:08 Follower : 1755
+17.04.2019_17:08 Following : 777
+17.04.2019_17:08 Media : 1118
+17.04.2019_17:08    >This user is active
+17.04.2019_17:08    >This account is NOT following you
+17.04.2019_17:08    >You are following this account
+17.04.2019_17:08 leo_the_iron_lion
+17.04.2019_17:08 Unfollowed: 2344389726 #556.
+17.04.2019_17:09 Get Media by tag: sanfrancisco
+17.04.2019_17:10 Trying to like media: 2024177829820190158
+                 https://www.instagram.com/p/BwXUwL8p03O/
+17.04.2019_17:10 Liked: 2024177829820190158. Like #2392.
+17.04.2019_17:10 Trying to follow: 6740835267
+17.04.2019_17:10 Followed: 6740835267 #672.
+17.04.2019_17:10 Get Media by tag: sanfrancisco
+17.04.2019_17:11 Trying to like media: 2024157945462227879
+                 https://www.instagram.com/p/BwXQO1Mj4On/
+17.04.2019_17:11 Liked: 2024157945462227879. Like #2393.
+17.04.2019_17:11 Get Media by tag: sfbayarea
+17.04.2019_17:12 Get Media by tag: sanfrancisco
+17.04.2019_17:13 Trying to like media: 2024179913170441007
+                 https://www.instagram.com/p/BwXVOgOAVMv/
+17.04.2019_17:13 Liked: 2024179913170441007. Like #2394.
+17.04.2019_17:13 Trying to unfollow #557:
+17.04.2019_17:13 Getting user info : kaprizulya2
+17.04.2019_17:13 Checking user info..
+17.04.2019_17:13 Follower : 315
+17.04.2019_17:13 Following : 1337
+17.04.2019_17:13 Media : 23
+17.04.2019_17:13    >This is probably Fake account
+17.04.2019_17:13    >This user is passive
+17.04.2019_17:13    >This account is NOT following you
+17.04.2019_17:13    >You are following this account
+17.04.2019_17:13 kaprizulya2
+17.04.2019_17:13 Unfollowed: 8722641569 #557.
+17.04.2019_17:13 Get Media by tag: follow4follow
+17.04.2019_17:14 Trying to like media: 2024181158736175814
+                 https://www.instagram.com/p/BwXVgoPgiLG/
+17.04.2019_17:14 Liked: 2024181158736175814. Like #2395.
+17.04.2019_17:15 Get Media by tag: yayarea
+17.04.2019_17:15 Get Media by tag: yayarea
+17.04.2019_17:15 Trying to follow: 11935190029
+17.04.2019_17:15 Followed: 11935190029 #673.
+17.04.2019_17:15 Trying to like media: 2024172282457663283
+                 https://www.instagram.com/p/BwXTfdkFKcz/
+17.04.2019_17:15 Liked: 2024172282457663283. Like #2396.
+17.04.2019_17:16 Get Media by tag: sfbayarea
+17.04.2019_17:17 Trying to like media: 2024141708790660470
+                 https://www.instagram.com/p/BwXMijnhP12/
+17.04.2019_17:17 Liked: 2024141708790660470. Like #2397.
+17.04.2019_17:17 Get Media by tag: sanfrancisco
+17.04.2019_17:18 Get Media by tag: sanfrancisco
+17.04.2019_17:18 sf_clout : Get media id on recent feed
+17.04.2019_17:18 Media in recent feed = 12
+17.04.2019_17:18 Trying to unfollow #558:
+17.04.2019_17:18 Getting user info : johah.b
+17.04.2019_17:18 Checking user info..
+17.04.2019_17:18 Follower : 134
+17.04.2019_17:18 Following : 105
+17.04.2019_17:18 Media : 12
+17.04.2019_17:18    >This is a normal account
+17.04.2019_17:18    >This user is active
+17.04.2019_17:18    >This account is NOT following you
+17.04.2019_17:18    >You are following this account
+17.04.2019_17:18 johah.b
+17.04.2019_17:18 Unfollowed: 484678501 #558.
+17.04.2019_17:18 Trying to like media: 2024183443381956042
+                 https://www.instagram.com/p/BwXWB3_Ai3K/
+17.04.2019_17:18 Liked: 2024183443381956042. Like #2398.
+17.04.2019_17:19 Get Media by tag: sfbayarea
+17.04.2019_17:20 Trying to like media: 2024164737550797526
+                 https://www.instagram.com/p/BwXRxq0lkrW/
+17.04.2019_17:20 Liked: 2024164737550797526. Like #2399.
+17.04.2019_17:20 Already followed before 10822246
+17.04.2019_17:20 Get Media by tag: sfbayarea
+17.04.2019_17:21 Trying to like media: 2024136304564188667
+                 https://www.instagram.com/p/BwXLT6ihTX7/
+17.04.2019_17:21 Liked: 2024136304564188667. Like #2400.
+17.04.2019_17:21 Get Media by tag: sfbayarea
+17.04.2019_17:22 Trying to follow: 300274229
+17.04.2019_17:22 Followed: 300274229 #674.
+17.04.2019_17:23 Get Media by tag: sfbayarea
+17.04.2019_17:23 Trying to unfollow #559:
+17.04.2019_17:23 Getting user info : riffmagonline
+17.04.2019_17:23 Checking user info..
+17.04.2019_17:23 Follower : 918
+17.04.2019_17:23 Following : 86
+17.04.2019_17:23 Media : 3385
+17.04.2019_17:23    >This user is active
+17.04.2019_17:23    >This account is NOT following you
+17.04.2019_17:23    >You are following this account
+17.04.2019_17:23 riffmagonline
+17.04.2019_17:23 Unfollowed: 3642859452 #559.
+17.04.2019_17:23 Trying to like media: 2024168117026818778
+                 https://www.instagram.com/p/BwXSi2NDgra/
+17.04.2019_17:23 Liked: 2024168117026818778. Like #2401.
+17.04.2019_17:24 Get Media by tag: sfbayarea
+17.04.2019_17:24 Trying to like media: 2024141038408360449
+                 https://www.instagram.com/p/BwXMYzRnuIB/
+17.04.2019_17:24 Liked: 2024141038408360449. Like #2402.
+17.04.2019_17:25 Get Media by tag: sanfrancisco
+17.04.2019_17:26 Get Media by tag: yayarea
+17.04.2019_17:26 Trying to like media: 2024111806968413700
+                 https://www.instagram.com/p/BwXFvbYBr4E/
+17.04.2019_17:26 Liked: 2024111806968413700. Like #2403.
+17.04.2019_17:26 Get Media by tag: sfbayarea
+17.04.2019_17:27 Already followed before 10822246
+17.04.2019_17:27 Get Media by tag: sanfrancisco
+17.04.2019_17:27 Trying to like media: 2024188156412286843
+                 https://www.instagram.com/p/BwXXGdVgdd7/
+17.04.2019_17:27 Liked: 2024188156412286843. Like #2404.
+17.04.2019_17:27 sf_clout : Get media id on recent feed
+17.04.2019_17:27 Media in recent feed = 12
+17.04.2019_17:27 Trying to unfollow #560:
+17.04.2019_17:27 Getting user info : danlaroiche
+17.04.2019_17:27 Checking user info..
+17.04.2019_17:27 Follower : 1233
+17.04.2019_17:27 Following : 850
+17.04.2019_17:27 Media : 140
+17.04.2019_17:27    >This is a normal account
+17.04.2019_17:27    >This user is active
+17.04.2019_17:27    >This account is NOT following you
+17.04.2019_17:27    >You are following this account
+17.04.2019_17:27 danlaroiche
+17.04.2019_17:28 Unfollowed: 478882956 #560.
+17.04.2019_17:28 Get Media by tag: sfbayarea
+17.04.2019_17:29 Trying to like media: 2024151473130237723
+                 https://www.instagram.com/p/BwXOwpXgu8b/
+17.04.2019_17:29 Liked: 2024151473130237723. Like #2405.
+17.04.2019_17:29 Get Media by tag: sanfrancisco
+17.04.2019_17:30 Trying to follow: 1278403854
+17.04.2019_17:30 Followed: 1278403854 #675.
+17.04.2019_17:30 Get Media by tag: sanfrancisco
+17.04.2019_17:30 Trying to like media: 2024188844766642289
+                 https://www.instagram.com/p/BwXXQean8Bx/
+17.04.2019_17:30 Liked: 2024188844766642289. Like #2406.
+17.04.2019_17:31 Get Media by tag: yayarea
+17.04.2019_17:32 Get Media by tag: yayarea
+17.04.2019_17:32 Trying to like media: 2024184009369906764
+                 https://www.instagram.com/p/BwXWKHGhO5M/
+17.04.2019_17:32 Liked: 2024184009369906764. Like #2407.
+17.04.2019_17:32 Trying to unfollow #561:
+17.04.2019_17:32 Getting user info : travelingirl513
+17.04.2019_17:32 Checking user info..
+17.04.2019_17:32 Follower : 86
+17.04.2019_17:32 Following : 30
+17.04.2019_17:32 Media : 150
+17.04.2019_17:32    >This user is active
+17.04.2019_17:32    >This account is NOT following you
+17.04.2019_17:32    >You are following this account
+17.04.2019_17:32 travelingirl513
+17.04.2019_17:32 Unfollowed: 8763856067 #561.
+17.04.2019_17:33 Get Media by tag: sanfrancisco
+17.04.2019_17:33 Trying to like media: 2024188538085824249
+                 https://www.instagram.com/p/BwXXMAzBdb5/
+17.04.2019_17:33 Liked: 2024188538085824249. Like #2408.
+17.04.2019_17:34 Get Media by tag: sfbayarea
+17.04.2019_17:34 Trying to follow: 10659306639
+17.04.2019_17:34 Followed: 10659306639 #676.
+17.04.2019_17:35 Trying to like media: 2024145132896219969
+                 https://www.instagram.com/p/BwXNUYkHXNB/
+17.04.2019_17:35 Liked: 2024145132896219969. Like #2409.
+17.04.2019_17:35 Get Media by tag: follow4follow
+17.04.2019_17:36 Get Media by tag: yayarea
+17.04.2019_17:36 Trying to like media: 2024178968814553692
+                 https://www.instagram.com/p/BwXVAwuAgpc/
+17.04.2019_17:36 Liked: 2024178968814553692. Like #2410.
+17.04.2019_17:37 sf_clout : Get media id on recent feed
+17.04.2019_17:37 Media in recent feed = 12
+17.04.2019_17:37 Trying to unfollow #562:
+17.04.2019_17:37 Getting user info : kennystruble
+17.04.2019_17:37 Checking user info..
+17.04.2019_17:37 Follower : 551
+17.04.2019_17:37 Following : 743
+17.04.2019_17:37 Media : 242
+17.04.2019_17:37    >This is a normal account
+17.04.2019_17:37    >This user is active
+17.04.2019_17:37    >This account is NOT following you
+17.04.2019_17:37    >You are following this account
+17.04.2019_17:37 kennystruble
+17.04.2019_17:37 Unfollowed: 14799102 #562.
+17.04.2019_17:37 Get Media by tag: sanfrancisco
+17.04.2019_17:38 Trying to like media: 2024190689335784307
+                 https://www.instagram.com/p/BwXXrUTgzNz/
+17.04.2019_17:38 Liked: 2024190689335784307. Like #2411.
+17.04.2019_17:38 Get Media by tag: sanfrancisco
+17.04.2019_17:38 Trying to follow: 8539436238
+17.04.2019_17:38 Followed: 8539436238 #677.
+17.04.2019_17:39 Trying to like media: 1240644911247309720
+                 https://www.instagram.com/p/BE3p_k7SruY/
+17.04.2019_17:39 Liked: 1240644911247309720. Like #2412.
+17.04.2019_17:39 Get Media by tag: sanfrancisco
+17.04.2019_17:40 Get Media by tag: yayarea
+17.04.2019_17:41 Trying to like media: 2024104510541901796
+                 https://www.instagram.com/p/BwXEFQDHa_k/
+17.04.2019_17:41 Liked: 2024104510541901796. Like #2413.
+17.04.2019_17:41 Get Media by tag: sfbayarea
+17.04.2019_17:41 Trying to unfollow #563:
+17.04.2019_17:41 Getting user info : joysexplorations
+17.04.2019_17:41 Checking user info..
+17.04.2019_17:41 Follower : 15
+17.04.2019_17:41 Following : 10
+17.04.2019_17:41 Media : 5
+17.04.2019_17:41    >This is a normal account
+17.04.2019_17:41    >This user is active
+17.04.2019_17:41    >This account is NOT following you
+17.04.2019_17:41    >You are following this account
+17.04.2019_17:41 joysexplorations
+17.04.2019_17:41 Unfollowed: 12568429895 #563.
+17.04.2019_17:42 Get Media by tag: sfbayarea
+17.04.2019_17:42 Trying to like media: 2024195612728991698
+                 https://www.instagram.com/p/BwXYy9knZ_S/
+17.04.2019_17:42 Liked: 2024195612728991698. Like #2414.
+17.04.2019_17:43 Get Media by tag: yayarea
+17.04.2019_17:43 Already followed before 1332703209
+17.04.2019_17:44 Get Media by tag: sanfrancisco
+17.04.2019_17:44 Trying to like media: 2024196379976252847
+                 https://www.instagram.com/p/BwXY-IIHb2v/
+17.04.2019_17:44 Liked: 2024196379976252847. Like #2415.
+17.04.2019_17:45 Get Media by tag: sfbayarea
+17.04.2019_17:45 Trying to like media: 2024186686996859341
+                 https://www.instagram.com/p/BwXWxE1hcnN/
+17.04.2019_17:45 Liked: 2024186686996859341. Like #2416.
+17.04.2019_17:45 Trying to follow: 2285302689
+17.04.2019_17:45 Followed: 2285302689 #678.
+17.04.2019_17:46 Get Media by tag: follow4follow
+17.04.2019_17:46 sf_clout : Get media id on recent feed
+17.04.2019_17:46 Media in recent feed = 12
+17.04.2019_17:46 Trying to unfollow #564:
+17.04.2019_17:46 Getting user info : over_heels
+17.04.2019_17:46 Checking user info..
+17.04.2019_17:46 Follower : 18203
+17.04.2019_17:46 Following : 226
+17.04.2019_17:46 Media : 110
+17.04.2019_17:46    >This user is passive
+17.04.2019_17:46    >This account is NOT following you
+17.04.2019_17:46    >You are following this account
+17.04.2019_17:46 over_heels
+17.04.2019_17:46 Unfollowed: 325557920 #564.
+17.04.2019_17:46 Trying to like media: 2024197408073717315
+                 https://www.instagram.com/p/BwXZNFngBZD/
+17.04.2019_17:46 Liked: 2024197408073717315. Like #2417.
+17.04.2019_17:47 Get Media by tag: sfbayarea
+17.04.2019_17:48 Trying to like media: 2024150192575592433
+                 https://www.instagram.com/p/BwXOeAwgbfx/
+17.04.2019_17:48 Liked: 2024150192575592433. Like #2418.
+17.04.2019_17:48 Get Media by tag: follow4follow
+17.04.2019_17:49 Get Media by tag: sanfrancisco
+17.04.2019_17:49 Trying to like media: 2024198656475219773
+                 https://www.instagram.com/p/BwXZfQSB0c9/
+17.04.2019_17:49 Liked: 2024198656475219773. Like #2419.
+17.04.2019_17:50 Trying to follow: 52561229
+17.04.2019_17:50 Followed: 52561229 #679.
+17.04.2019_17:50 Get Media by tag: sanfrancisco
+17.04.2019_17:51 Trying to like media: 2024198518567878904
+                 https://www.instagram.com/p/BwXZdP2HED4/
+17.04.2019_17:51 Liked: 2024198518567878904. Like #2420.
+17.04.2019_17:51 Trying to unfollow #565:
+17.04.2019_17:51 Getting user info : realtor_shawn_shokoor
+17.04.2019_17:51 Checking user info..
+17.04.2019_17:51 Follower : 657
+17.04.2019_17:51 Following : 360
+17.04.2019_17:51 Media : 370
+17.04.2019_17:51    >This is a normal account
+17.04.2019_17:51    >This user is active
+17.04.2019_17:51    >This account is NOT following you
+17.04.2019_17:51    >You are following this account
+17.04.2019_17:51 realtor_shawn_shokoor
+17.04.2019_17:51 Unfollowed: 1753821627 #565.
+17.04.2019_17:52 Get Media by tag: sfbayarea
+17.04.2019_17:52 Trying to like media: 2024167570644810826
+                 https://www.instagram.com/p/BwXSa5WJjxK/
+17.04.2019_17:52 Liked: 2024167570644810826. Like #2421.
+17.04.2019_17:53 Get Media by tag: sanfrancisco
+17.04.2019_17:54 Get Media by tag: follow4follow
+17.04.2019_17:54 Trying to like media: 2024200861747659906
+                 https://www.instagram.com/p/BwXZ_WGgkSC/
+17.04.2019_17:54 Liked: 2024200861747659906. Like #2422.
+17.04.2019_17:55 Get Media by tag: sanfrancisco
+17.04.2019_17:55 Trying to follow: 4193718536
+17.04.2019_17:55 Followed: 4193718536 #680.
+17.04.2019_17:55 Trying to like media: 2024201306461613559
+                 https://www.instagram.com/p/BwXaF0Rhq33/
+17.04.2019_17:55 Liked: 2024201306461613559. Like #2423.
+17.04.2019_17:56 Get Media by tag: yayarea
+17.04.2019_17:56 sf_clout : Get media id on recent feed
+17.04.2019_17:56 Media in recent feed = 12
+17.04.2019_17:56 Trying to unfollow #566:
+17.04.2019_17:56 Getting user info : shanaleigh_obv
+17.04.2019_17:56 Checking user info..
+17.04.2019_17:56 Follower : 1302
+17.04.2019_17:56 Following : 1262
+17.04.2019_17:56 Media : 630
+17.04.2019_17:56    >This is a normal account
+17.04.2019_17:56    >This user is active
+17.04.2019_17:56    >This account is NOT following you
+17.04.2019_17:56    >You are following this account
+17.04.2019_17:56 shanaleigh_obv
+17.04.2019_17:56 Unfollowed: 203310775 #566.
+17.04.2019_17:57 Get Media by tag: sanfrancisco
+17.04.2019_17:57 Trying to like media: 2024203006974839524
+                 https://www.instagram.com/p/BwXaekAA0rk/
+17.04.2019_17:57 Liked: 2024203006974839524. Like #2424.
+17.04.2019_17:58 Get Media by tag: follow4follow
+17.04.2019_17:58 Trying to like media: 2024203618959060866
+                 https://www.instagram.com/p/BwXand9HW-C/
+17.04.2019_17:58 Liked: 2024203618959060866. Like #2425.
+17.04.2019_17:59 Get Media by tag: sfbayarea
+17.04.2019_18:00 Trying to follow: 8116821266
+17.04.2019_18:00 Followed: 8116821266 #681.
+17.04.2019_18:00 Trying to like media: 2024176046904804138
+                 https://www.instagram.com/p/BwXUWPenYMq/
+17.04.2019_18:00 Liked: 2024176046904804138. Like #2426.
+17.04.2019_18:00 Get Media by tag: sfbayarea
+17.04.2019_18:01 Trying to unfollow #567:
+17.04.2019_18:01 Getting user info : wiz___halith
+17.04.2019_18:01 Checking user info..
+17.04.2019_18:01 Follower : 654
+17.04.2019_18:01 Following : 2797
+17.04.2019_18:01 Media : 101
+17.04.2019_18:01    >This is probably Fake account
+17.04.2019_18:01    >This user is passive
+17.04.2019_18:01    >This account is NOT following you
+17.04.2019_18:01    >You are following this account
+17.04.2019_18:01 wiz___halith
+17.04.2019_18:01 Unfollowed: 5933508484 #567.
+17.04.2019_18:01 Trying to like media: 2024151019969194860
+                 https://www.instagram.com/p/BwXOqDVAits/
+17.04.2019_18:01 Liked: 2024151019969194860. Like #2427.
+17.04.2019_18:01 Get Media by tag: sanfrancisco
+17.04.2019_18:02 Get Media by tag: sfbayarea
+17.04.2019_18:03 Trying to like media: 2024198473386314736
+                 https://www.instagram.com/p/BwXZclxFEvw/
+17.04.2019_18:03 Liked: 2024198473386314736. Like #2428.
+17.04.2019_18:03 Get Media by tag: follow4follow
+17.04.2019_18:04 Trying to like media: 2024206373115315575
+                 https://www.instagram.com/p/BwXbPi9nsV3/
+17.04.2019_18:04 Liked: 2024206373115315575. Like #2429.
+17.04.2019_18:04 Trying to follow: 8203530527
+17.04.2019_18:05 Followed: 8203530527 #682.
+17.04.2019_18:05 Get Media by tag: sanfrancisco
+17.04.2019_18:05 Trying to like media: 2024205731066373732
+                 https://www.instagram.com/p/BwXbGNAhWZk/
+17.04.2019_18:05 Liked: 2024205731066373732. Like #2430.
+17.04.2019_18:06 Get Media by tag: yayarea
+17.04.2019_18:06 sf_clout : Get media id on recent feed
+17.04.2019_18:06 Media in recent feed = 12
+17.04.2019_18:06 Trying to unfollow #568:
+17.04.2019_18:06 Getting user info : parkcafelife
+17.04.2019_18:06 Checking user info..
+17.04.2019_18:06 Follower : 1403
+17.04.2019_18:06 Following : 1815
+17.04.2019_18:06 Media : 709
+17.04.2019_18:06    >This is a normal account
+17.04.2019_18:06    >This user is active
+17.04.2019_18:06    >This account is NOT following you
+17.04.2019_18:06    >You are following this account
+17.04.2019_18:06 parkcafelife
+17.04.2019_18:06 Unfollowed: 650168398 #568.
+17.04.2019_18:07 Get Media by tag: follow4follow
+17.04.2019_18:07 Trying to like media: 2024207929504113266
+                 https://www.instagram.com/p/BwXbmMdnyJy/
+17.04.2019_18:07 Liked: 2024207929504113266. Like #2431.
+17.04.2019_18:08 Get Media by tag: sfbayarea
+17.04.2019_18:09 Trying to like media: 2024161876606203100
+                 https://www.instagram.com/p/BwXRICXADTc/
+17.04.2019_18:09 Liked: 2024161876606203100. Like #2432.
+17.04.2019_18:09 Get Media by tag: sfbayarea
+17.04.2019_18:10 Already followed before 10822246
+17.04.2019_18:10 Get Media by tag: follow4follow
+17.04.2019_18:10 Trying to like media: 2024209364013145528
+                 https://www.instagram.com/p/BwXb7EdBd24/
+17.04.2019_18:10 Not liked: 400 message Sorry this photo has been deleted
+17.04.2019_18:11 Get Media by tag: sfbayarea
+17.04.2019_18:11 Trying to unfollow #569:
+17.04.2019_18:11 Getting user info : lilit_black___
+17.04.2019_18:11 Checking user info..
+17.04.2019_18:11 Follower : 1757
+17.04.2019_18:11 Following : 36
+17.04.2019_18:11 Media : 397
+17.04.2019_18:11    >This user is active
+17.04.2019_18:11    >This account is NOT following you
+17.04.2019_18:11    >You are following this account
+17.04.2019_18:11 lilit_black___
+17.04.2019_18:11 Unfollowed: 7726077499 #569.
+17.04.2019_18:12 Trying to like media: 2024172066936305385
+                 https://www.instagram.com/p/BwXTcU2Abbp/
+17.04.2019_18:12 Liked: 2024172066936305385. Like #2433.
+17.04.2019_18:12 Get Media by tag: sfbayarea
+17.04.2019_18:12 Already followed before 5852955427
+17.04.2019_18:13 Get Media by tag: sanfrancisco
+17.04.2019_18:13 Trying to like media: 2024210792283810972
+                 https://www.instagram.com/p/BwXcP2olqyc/
+17.04.2019_18:13 Liked: 2024210792283810972. Like #2434.
+17.04.2019_18:14 Get Media by tag: sfbayarea
+17.04.2019_18:14 Trying to like media: 2024186457442398212
+                 https://www.instagram.com/p/BwXWtvDArAE/
+17.04.2019_18:14 Liked: 2024186457442398212. Like #2435.
+17.04.2019_18:15 Trying to follow: 463175273
+17.04.2019_18:15 Followed: 463175273 #683.
+17.04.2019_18:15 Get Media by tag: sanfrancisco
+17.04.2019_18:16 sf_clout : Get media id on recent feed
+17.04.2019_18:16 Media in recent feed = 12
+17.04.2019_18:16 Trying to unfollow #570:
+17.04.2019_18:16 Getting user info : freshoutmag
+17.04.2019_18:16 Checking user info..
+17.04.2019_18:16 Follower : 767
+17.04.2019_18:16 Following : 526
+17.04.2019_18:16 Media : 1695
+17.04.2019_18:16    >This is a normal account
+17.04.2019_18:16    >This user is active
+17.04.2019_18:16    >This account is NOT following you
+17.04.2019_18:16    >You are following this account
+17.04.2019_18:16 freshoutmag
+17.04.2019_18:16 Unfollowed: 4059563315 #570.
+17.04.2019_18:16 Trying to like media: 2024210621054197105
+                 https://www.instagram.com/p/BwXcNXKgh1x/
+17.04.2019_18:16 Liked: 2024210621054197105. Like #2436.
+17.04.2019_18:16 Get Media by tag: sfbayarea
+17.04.2019_18:17 Get Media by tag: follow4follow
+17.04.2019_18:18 Trying to like media: 2024213338126208639
+                 https://www.instagram.com/p/BwXc05ons5_/
+17.04.2019_18:18 Liked: 2024213338126208639. Like #2437.
+17.04.2019_18:18 Get Media by tag: sanfrancisco
+17.04.2019_18:19 Trying to like media: 2024213091887035855
+                 https://www.instagram.com/p/BwXcxUTnzXP/
+17.04.2019_18:19 Liked: 2024213091887035855. Like #2438.
+17.04.2019_18:19 Trying to follow: 2241731947
+17.04.2019_18:19 Followed: 2241731947 #684.
+17.04.2019_18:20 Get Media by tag: sanfrancisco
+17.04.2019_18:20 Trying to like media: 2024213072693186526
+                 https://www.instagram.com/p/BwXcxCblE_e/
+17.04.2019_18:20 Liked: 2024213072693186526. Like #2439.
+17.04.2019_18:21 Trying to unfollow #571:
+17.04.2019_18:21 Getting user info : _simonacarbone
+17.04.2019_18:21 Checking user info..
+17.04.2019_18:21 Follower : 338
+17.04.2019_18:21 Following : 503
+17.04.2019_18:21 Media : 54
+17.04.2019_18:21    >This is a normal account
+17.04.2019_18:21    >This user is active
+17.04.2019_18:21    >This account is NOT following you
+17.04.2019_18:21    >You are following this account
+17.04.2019_18:21 _simonacarbone
+17.04.2019_18:21 Unfollowed: 1514794164 #571.
+17.04.2019_18:21 Get Media by tag: yayarea
+17.04.2019_18:22 Get Media by tag: sfbayarea
+17.04.2019_18:22 Trying to like media: 2024186939218852999
+                 https://www.instagram.com/p/BwXW0vvH_yH/
+17.04.2019_18:22 Liked: 2024186939218852999. Like #2440.
+17.04.2019_18:22 Get Media by tag: sanfrancisco
+17.04.2019_18:24 Trying to like media: 2022875067772765154
+                 https://www.instagram.com/p/BwSsigPlwPi/
+17.04.2019_18:24 Liked: 2022875067772765154. Like #2441.
+17.04.2019_18:24 Get Media by tag: follow4follow
+17.04.2019_18:25 Trying to follow: 11379948270
+17.04.2019_18:25 Followed: 11379948270 #685.
+17.04.2019_18:25 Get Media by tag: follow4follow
+17.04.2019_18:25 Trying to like media: 2024217192581026194
+                 https://www.instagram.com/p/BwXds_YB9GS/
+17.04.2019_18:25 Liked: 2024217192581026194. Like #2442.
+17.04.2019_18:26 sf_clout : Get media id on recent feed
+17.04.2019_18:26 Media in recent feed = 12
+17.04.2019_18:26 Trying to unfollow #572:
+17.04.2019_18:26 Getting user info : alsali_forex
+17.04.2019_18:26 Checking user info..
+17.04.2019_18:26 Follower : 6030
+17.04.2019_18:26 Following : 2714
+17.04.2019_18:26 Media : 703
+17.04.2019_18:26    >This user is active
+17.04.2019_18:26    >This account is NOT following you
+17.04.2019_18:26    >You are following this account
+17.04.2019_18:26 alsali_forex
+17.04.2019_18:26 Unfollowed: 8135461969 #572.
+17.04.2019_18:26 Get Media by tag: follow4follow
+17.04.2019_18:27 Trying to like media: 2024217755070377207
+                 https://www.instagram.com/p/BwXd1LPAiz3/
+17.04.2019_18:27 Liked: 2024217755070377207. Like #2443.
+17.04.2019_18:27 Get Media by tag: sanfrancisco
+17.04.2019_18:28 Trying to like media: 2024216437002060392
+                 https://www.instagram.com/p/BwXdh_sA8Jo/
+17.04.2019_18:28 Liked: 2024216437002060392. Like #2444.
+17.04.2019_18:28 Get Media by tag: follow4follow
+17.04.2019_18:29 Trying to follow: 9144292303
+17.04.2019_18:29 Followed: 9144292303 #686.
+17.04.2019_18:30 Trying to like media: 2021914858576063813
+                 https://www.instagram.com/p/BwPSNnvgq1F/
+17.04.2019_18:30 Liked: 2021914858576063813. Like #2445.
+17.04.2019_18:30 Get Media by tag: sfbayarea
+17.04.2019_18:31 Get Media by tag: yayarea
+17.04.2019_18:31 Trying to unfollow #573:
+17.04.2019_18:31 Getting user info : getgonerecords
+17.04.2019_18:31 Checking user info..
+17.04.2019_18:31 Follower : 241
+17.04.2019_18:31 Following : 198
+17.04.2019_18:31 Media : 30
+17.04.2019_18:31    >This is a normal account
+17.04.2019_18:31    >This user is active
+17.04.2019_18:31    >This account is NOT following you
+17.04.2019_18:31    >You are following this account
+17.04.2019_18:31 getgonerecords
+17.04.2019_18:31 Unfollowed: 11935190029 #573.
+17.04.2019_18:31 Get Media by tag: sfbayarea
+17.04.2019_18:31 Trying to like media: 2024220371200412218
+                 https://www.instagram.com/p/BwXebPsgoo6/
+17.04.2019_18:31 Liked: 2024220371200412218. Like #2446.
+17.04.2019_18:32 Get Media by tag: follow4follow
+17.04.2019_18:33 Trying to like media: 2024220880784345474
+                 https://www.instagram.com/p/BwXeiqSFEmC/
+17.04.2019_18:33 Liked: 2024220880784345474. Like #2447.
+17.04.2019_18:34 Get Media by tag: yayarea
+17.04.2019_18:34 Trying to follow: 677887118
+17.04.2019_18:34 Followed: 677887118 #687.
+17.04.2019_18:34 Get Media by tag: sanfrancisco
+17.04.2019_18:34 Trying to like media: 2024221943107946991
+                 https://www.instagram.com/p/BwXeyHpgAnv/
+17.04.2019_18:34 Liked: 2024221943107946991. Like #2448.
+17.04.2019_18:35 Get Media by tag: sanfrancisco
+17.04.2019_18:36 Trying to like media: 2024221609937657620
+                 https://www.instagram.com/p/BwXetRXAN8U/
+17.04.2019_18:36 Liked: 2024221609937657620. Like #2449.
+17.04.2019_18:36 sf_clout : Get media id on recent feed
+17.04.2019_18:36 Media in recent feed = 12
+17.04.2019_18:36 Trying to unfollow #574:
+17.04.2019_18:36 Getting user info : pinkrisha_
+17.04.2019_18:36 Checking user info..
+17.04.2019_18:36 Follower : 6040
+17.04.2019_18:36 Following : 54
+17.04.2019_18:36 Media : 241
+17.04.2019_18:36    >This user is passive
+17.04.2019_18:36    >This account is NOT following you
+17.04.2019_18:36    >You are following this account
+17.04.2019_18:36 pinkrisha_
+17.04.2019_18:36 Unfollowed: 5918152714 #574.
+17.04.2019_18:37 Get Media by tag: follow4follow
+17.04.2019_18:37 Trying to like media: 2024222450652429942
+                 https://www.instagram.com/p/BwXe5gVgj52/
+17.04.2019_18:37 Liked: 2024222450652429942. Like #2450.
+17.04.2019_18:38 Get Media by tag: yayarea
+17.04.2019_18:38 Get Media by tag: yayarea
+17.04.2019_18:39 Get Media by tag: yayarea
+17.04.2019_18:39 Trying to like media: 2024223281560795329
+                 https://www.instagram.com/p/BwXfFmLgbjB/
+17.04.2019_18:39 Liked: 2024223281560795329. Like #2451.
+17.04.2019_18:39 Trying to follow: 28622525
+17.04.2019_18:39 Followed: 28622525 #688.
+17.04.2019_18:40 Get Media by tag: sfbayarea
+17.04.2019_18:40 Trying to unfollow #575:
+17.04.2019_18:40 Getting user info : tbrownmodeling
+17.04.2019_18:40 Checking user info..
+17.04.2019_18:40 Follower : 22
+17.04.2019_18:40 Following : 11
+17.04.2019_18:40 Media : 5
+17.04.2019_18:40    >This is a normal account
+17.04.2019_18:40    >This user is active
+17.04.2019_18:40    >This account is following you
+17.04.2019_18:40    >You are following this account
+17.04.2019_18:40 Trying to like media: 2024187966957997826
+                 https://www.instagram.com/p/BwXXDs5Js8C/
+17.04.2019_18:40 Liked: 2024187966957997826. Like #2452.
+17.04.2019_18:41 Get Media by tag: sfbayarea
+17.04.2019_18:42 Get Media by tag: sfbayarea
+17.04.2019_18:42 Trying to like media: 2024216216985884475
+                 https://www.instagram.com/p/BwXdeyyB1c7/
+17.04.2019_18:42 Liked: 2024216216985884475. Like #2453.
+17.04.2019_18:43 Get Media by tag: sfbayarea
+17.04.2019_18:43 Trying to like media: 2024192877629824566
+                 https://www.instagram.com/p/BwXYLKUAF42/
+17.04.2019_18:43 Liked: 2024192877629824566. Like #2454.
+17.04.2019_18:44 Get Media by tag: follow4follow
+17.04.2019_18:44 Trying to follow: 282910706
+17.04.2019_18:44 Followed: 282910706 #689.
+17.04.2019_18:45 sf_clout : Get media id on recent feed
+17.04.2019_18:45 Media in recent feed = 12
+17.04.2019_18:45 Trying to unfollow #575:
+17.04.2019_18:45 Getting user info : leadingwithgrace
+17.04.2019_18:45 Checking user info..
+17.04.2019_18:45 Follower : 735
+17.04.2019_18:45 Following : 142
+17.04.2019_18:45 Media : 262
+17.04.2019_18:45    >This user is active
+17.04.2019_18:45    >This account is NOT following you
+17.04.2019_18:45    >You are following this account
+17.04.2019_18:45 leadingwithgrace
+17.04.2019_18:45 Unfollowed: 6915645638 #575.
+17.04.2019_18:45 Trying to like media: 1789426295249411011
+                 https://www.instagram.com/p/BjVUbwYFZvD/
+17.04.2019_18:45 Liked: 1789426295249411011. Like #2455.
+17.04.2019_18:45 Get Media by tag: sanfrancisco
+17.04.2019_18:46 Get Media by tag: sanfrancisco
+17.04.2019_18:47 Trying to like media: 2024227272743130856
+                 https://www.instagram.com/p/BwXf_rQgxbo/
+17.04.2019_18:47 Liked: 2024227272743130856. Like #2456.
+17.04.2019_18:47 Get Media by tag: follow4follow
+17.04.2019_18:48 Trying to like media: 2024228139590124944
+                 https://www.instagram.com/p/BwXgMSknoWQ/
+17.04.2019_18:48 Liked: 2024228139590124944. Like #2457.
+17.04.2019_18:48 Get Media by tag: sanfrancisco
+17.04.2019_18:48 Trying to follow: 4453015492
+17.04.2019_18:49 Followed: 4453015492 #690.
+17.04.2019_18:49 Trying to like media: 2024222225091373279
+                 https://www.instagram.com/p/BwXe2ORBajf/
+17.04.2019_18:49 Liked: 2024222225091373279. Like #2458.
+17.04.2019_18:49 Trying to unfollow #576:
+17.04.2019_18:49 Getting user info : biankasantss
+17.04.2019_18:49 Checking user info..
+17.04.2019_18:49 Follower : 295
+17.04.2019_18:49 Following : 977
+17.04.2019_18:49 Media : 20
+17.04.2019_18:49    >This is probably Fake account
+17.04.2019_18:49    >This user is passive
+17.04.2019_18:49    >This account is NOT following you
+17.04.2019_18:49    >You are following this account
+17.04.2019_18:49 biankasantss
+17.04.2019_18:49 Unfollowed: 8654952098 #576.
+17.04.2019_18:50 Get Media by tag: yayarea
+17.04.2019_18:50 Get Media by tag: follow4follow
+17.04.2019_18:51 Trying to like media: 2024211266005139864
+                 https://www.instagram.com/p/BwXcWv0lIGY/
+17.04.2019_18:51 Liked: 2024211266005139864. Like #2459.
+17.04.2019_18:51 Get Media by tag: sanfrancisco
+17.04.2019_18:52 Get Media by tag: sfbayarea
+17.04.2019_18:53 Trying to like media: 2024228004263397985
+                 https://www.instagram.com/p/BwXgKUihIph/
+17.04.2019_18:53 Liked: 2024228004263397985. Like #2460.
+17.04.2019_18:53 Trying to follow: 176315828
+17.04.2019_18:53 Followed: 176315828 #691.
+17.04.2019_18:53 Get Media by tag: sanfrancisco
+17.04.2019_18:54 Trying to like media: 2024230624404912589
+                 https://www.instagram.com/p/BwXgwcvHznN/
+17.04.2019_18:54 Liked: 2024230624404912589. Like #2461.
+17.04.2019_18:54 sf_clout : Get media id on recent feed
+17.04.2019_18:54 Media in recent feed = 12
+17.04.2019_18:54 Trying to unfollow #577:
+17.04.2019_18:54 Getting user info : mins_ukk
+17.04.2019_18:54 Checking user info..
+17.04.2019_18:54 Follower : 503
+17.04.2019_18:54 Following : 392
+17.04.2019_18:54 Media : 23
+17.04.2019_18:54    >This is a normal account
+17.04.2019_18:54    >This user is active
+17.04.2019_18:54    >This account is following you
+17.04.2019_18:54    >You are following this account
+17.04.2019_18:55 Get Media by tag: sfbayarea
+17.04.2019_18:55 Trying to like media: 2024196474331271997
+                 https://www.instagram.com/p/BwXY_gAHRM9/
+17.04.2019_18:55 Liked: 2024196474331271997. Like #2462.
+17.04.2019_18:56 Get Media by tag: yayarea
+17.04.2019_18:56 Get Media by tag: yayarea
+17.04.2019_18:57 Get Media by tag: yayarea
+17.04.2019_18:57 Trying to like media: 2024231243943717015
+                 https://www.instagram.com/p/BwXg5dugyiX/
+17.04.2019_18:57 Liked: 2024231243943717015. Like #2463.
+17.04.2019_18:57 Get Media by tag: sfbayarea
+17.04.2019_18:58 Trying to follow: 13014521
+17.04.2019_18:58 Followed: 13014521 #692.
+17.04.2019_18:58 Trying to like media: 2024197170257995343
+                 https://www.instagram.com/p/BwXZJoIlCZP/
+17.04.2019_18:58 Liked: 2024197170257995343. Like #2464.
+17.04.2019_18:59 Get Media by tag: follow4follow
+17.04.2019_18:59 Trying to unfollow #577:
+17.04.2019_18:59 Getting user info : lalavamosnos
+17.04.2019_18:59 Checking user info..
+17.04.2019_18:59 Follower : 11994
+17.04.2019_18:59 Following : 4398
+17.04.2019_18:59 Media : 208
+17.04.2019_18:59    >This user is passive
+17.04.2019_18:59    >This account is NOT following you
+17.04.2019_18:59    >You are following this account
+17.04.2019_18:59 lalavamosnos
+17.04.2019_18:59 Unfollowed: 4992591519 #577.
+17.04.2019_19:00 Trying to like media: 2001789740642628813
+                 https://www.instagram.com/p/BvHySnGBnTN/
+17.04.2019_19:00 Liked: 2001789740642628813. Like #2465.
+17.04.2019_19:00 Get Media by tag: sfbayarea
+17.04.2019_19:01 Get Media by tag: sanfrancisco
+17.04.2019_19:01 Trying to like media: 2024234515374899793
+                 https://www.instagram.com/p/BwXhpEfAYJR/
+17.04.2019_19:01 Liked: 2024234515374899793. Like #2466.
+17.04.2019_19:02 Get Media by tag: yayarea
+17.04.2019_19:03 Get Media by tag: sfbayarea
+17.04.2019_19:03 Trying to like media: 2024225055064285024
+                 https://www.instagram.com/p/BwXffZ4jV9g/
+17.04.2019_19:03 Liked: 2024225055064285024. Like #2467.
+17.04.2019_19:03 Trying to follow: 1021627513
+17.04.2019_19:03 Followed: 1021627513 #693.
+17.04.2019_19:04 Get Media by tag: yayarea
+17.04.2019_19:04 sf_clout : Get media id on recent feed
+17.04.2019_19:04 Media in recent feed = 12
+17.04.2019_19:04 Trying to unfollow #578:
+17.04.2019_19:04 Getting user info : santhiagowolf
+17.04.2019_19:04 Checking user info..
+17.04.2019_19:04 Follower : 523
+17.04.2019_19:04 Following : 526
+17.04.2019_19:04 Media : 60
+17.04.2019_19:04    >This is a normal account
+17.04.2019_19:04    >This user is active
+17.04.2019_19:04    >This account is following you
+17.04.2019_19:04    >You are following this account
+17.04.2019_19:04 Get Media by tag: follow4follow
+17.04.2019_19:04 Trying to like media: 2024237042058466819
+                 https://www.instagram.com/p/BwXiN1pFRYD/
+17.04.2019_19:04 Liked: 2024237042058466819. Like #2468.
+17.04.2019_19:05 Get Media by tag: follow4follow
+17.04.2019_19:06 Trying to like media: 2024237542095702587
+                 https://www.instagram.com/p/BwXiVHVn8o7/
+17.04.2019_19:06 Liked: 2024237542095702587. Like #2469.
+17.04.2019_19:07 Get Media by tag: sfbayarea
+17.04.2019_19:07 Trying to like media: 2024198938299872574
+                 https://www.instagram.com/p/BwXZjWwFjU-/
+17.04.2019_19:07 Liked: 2024198938299872574. Like #2470.
+17.04.2019_19:08 Get Media by tag: sanfrancisco
+17.04.2019_19:08 Trying to unfollow #578:
+17.04.2019_19:08 Getting user info : moehuss_t.k
+17.04.2019_19:08 Checking user info..
+17.04.2019_19:08 Follower : 208
+17.04.2019_19:08 Following : 120
+17.04.2019_19:08 Media : 25
+17.04.2019_19:08    >This is a normal account
+17.04.2019_19:08    >This user is active
+17.04.2019_19:08    >This account is NOT following you
+17.04.2019_19:08    >You are following this account
+17.04.2019_19:08 moehuss_t.k
+17.04.2019_19:08 Unfollowed: 4804842513 #578.
+17.04.2019_19:08 Trying to follow: 433836143
+17.04.2019_19:08 Followed: 433836143 #694.
+17.04.2019_19:09 Trying to like media: 1933588184425744015
+                 https://www.instagram.com/p/BrVfDWKlsaP/
+17.04.2019_19:09 Liked: 1933588184425744015. Like #2471.
+17.04.2019_19:09 Get Media by tag: sanfrancisco
+17.04.2019_19:10 Get Media by tag: sfbayarea
+17.04.2019_19:10 Trying to like media: 2024219117690755270
+                 https://www.instagram.com/p/BwXeJARgxjG/
+17.04.2019_19:10 Liked: 2024219117690755270. Like #2472.
+17.04.2019_19:11 Get Media by tag: sanfrancisco
+17.04.2019_19:12 Trying to like media: 1975508075970253950
+                 https://www.instagram.com/p/BtqaiDfH1R-/
+17.04.2019_19:12 Liked: 1975508075970253950. Like #2473.
+17.04.2019_19:12 Get Media by tag: sanfrancisco
+17.04.2019_19:13 sf_clout : Get media id on recent feed
+17.04.2019_19:13 Media in recent feed = 12
+17.04.2019_19:13 Trying to unfollow #579:
+17.04.2019_19:13 Getting user info : jaronlee0105
+17.04.2019_19:13 Checking user info..
+17.04.2019_19:13 Follower : 32
+17.04.2019_19:13 Following : 107
+17.04.2019_19:13 Media : 20
+17.04.2019_19:13    >This is probably Fake account
+17.04.2019_19:13    >This user is active
+17.04.2019_19:13    >This account is NOT following you
+17.04.2019_19:13    >You are following this account
+17.04.2019_19:13 jaronlee0105
+17.04.2019_19:13 Unfollowed: 8539436238 #579.
+17.04.2019_19:13 Get Media by tag: sanfrancisco
+17.04.2019_19:14 Trying to follow: 1318102535
+17.04.2019_19:14 Followed: 1318102535 #695.
+17.04.2019_19:14 Trying to like media: 2024241190318067053
+                 https://www.instagram.com/p/BwXjKNAn01t/
+17.04.2019_19:14 Liked: 2024241190318067053. Like #2474.
+17.04.2019_19:15 Get Media by tag: follow4follow
+17.04.2019_19:15 Trying to like media: 2024242227821003023
+                 https://www.instagram.com/p/BwXjZTQncEP/
+17.04.2019_19:15 Liked: 2024242227821003023. Like #2475.
+17.04.2019_19:16 Get Media by tag: follow4follow
+17.04.2019_19:17 Trying to like media: 2024242835172579128
+                 https://www.instagram.com/p/BwXjiI5l1c4/
+17.04.2019_19:17 Liked: 2024242835172579128. Like #2476.
+17.04.2019_19:17 Get Media by tag: sanfrancisco
+17.04.2019_19:18 Trying to like media: 2024241890045230598
+                 https://www.instagram.com/p/BwXjUYrnH4G/
+17.04.2019_19:18 Liked: 2024241890045230598. Like #2477.
+17.04.2019_19:18 Trying to unfollow #580:
+17.04.2019_19:18 Getting user info : jordanserben
+17.04.2019_19:18 Checking user info..
+17.04.2019_19:18 Follower : 2601
+17.04.2019_19:18 Following : 51
+17.04.2019_19:18 Media : 469
+17.04.2019_19:18    >This user is active
+17.04.2019_19:18    >This account is NOT following you
+17.04.2019_19:18    >You are following this account
+17.04.2019_19:18 jordanserben
+17.04.2019_19:18 Unfollowed: 1478567547 #580.
+17.04.2019_19:18 Get Media by tag: yayarea
+17.04.2019_19:19 Already followed before 191662397
+17.04.2019_19:19 Get Media by tag: sanfrancisco
+17.04.2019_19:19 Trying to like media: 2024243172510562436
+                 https://www.instagram.com/p/BwXjnDEgHiE/
+17.04.2019_19:19 Liked: 2024243172510562436. Like #2478.
+17.04.2019_19:20 Get Media by tag: yayarea
+17.04.2019_19:21 Get Media by tag: yayarea
+17.04.2019_19:21 Trying to like media: 2024168468602900541
+                 https://www.instagram.com/p/BwXSn9on1A9/
+17.04.2019_19:21 Liked: 2024168468602900541. Like #2479.
+17.04.2019_19:21 Get Media by tag: sfbayarea
+17.04.2019_19:21 Trying to follow: 691165744
+17.04.2019_19:21 Followed: 691165744 #696.
+17.04.2019_19:22 Trying to like media: 2023769397713316258
+                 https://www.instagram.com/p/BwV34t6Aimi/
+17.04.2019_19:22 Liked: 2023769397713316258. Like #2480.
+17.04.2019_19:22 Get Media by tag: yayarea
+17.04.2019_19:23 sf_clout : Get media id on recent feed
+17.04.2019_19:23 Media in recent feed = 12
+17.04.2019_19:23 Trying to unfollow #581:
+17.04.2019_19:23 Getting user info : eatwelltreatsss
+17.04.2019_19:23 Checking user info..
+17.04.2019_19:23 Follower : 1138
+17.04.2019_19:23 Following : 1037
+17.04.2019_19:23 Media : 264
+17.04.2019_19:23    >This is a normal account
+17.04.2019_19:23    >This user is active
+17.04.2019_19:23    >This account is NOT following you
+17.04.2019_19:23    >You are following this account
+17.04.2019_19:23 eatwelltreatsss
+17.04.2019_19:23 Unfollowed: 3632665630 #581.
+17.04.2019_19:23 Get Media by tag: sfbayarea
+17.04.2019_19:24 Trying to like media: 2024195507509103686
+                 https://www.instagram.com/p/BwXYxblBYxG/
+17.04.2019_19:24 Liked: 2024195507509103686. Like #2481.
+17.04.2019_19:24 Get Media by tag: sfbayarea
+17.04.2019_19:25 Get Media by tag: yayarea
+17.04.2019_19:26 Get Media by tag: sfbayarea
+17.04.2019_19:26 Trying to like media: 2024247095317643093
+                 https://www.instagram.com/p/BwXkgIeBj9V/
+17.04.2019_19:26 Liked: 2024247095317643093. Like #2482.
+17.04.2019_19:26 Already followed before 10822246
+17.04.2019_19:27 Get Media by tag: sanfrancisco
+17.04.2019_19:27 Trying to like media: 2024246877733630584
+                 https://www.instagram.com/p/BwXkc91AbJ4/
+17.04.2019_19:27 Liked: 2024246877733630584. Like #2483.
+17.04.2019_19:28 Get Media by tag: sanfrancisco
+17.04.2019_19:28 Trying to unfollow #582:
+17.04.2019_19:28 Getting user info : polyakovdemis
+17.04.2019_19:28 Checking user info..
+17.04.2019_19:28 Follower : 1170
+17.04.2019_19:28 Following : 131
+17.04.2019_19:28 Media : 237
+17.04.2019_19:28    >This user is active
+17.04.2019_19:28    >This account is NOT following you
+17.04.2019_19:28    >You are following this account
+17.04.2019_19:28 polyakovdemis
+17.04.2019_19:28 Unfollowed: 1693387000 #582.
+17.04.2019_19:29 Trying to like media: 2024247142385806926
+                 https://www.instagram.com/p/BwXkg0TgW5O/
+17.04.2019_19:29 Liked: 2024247142385806926. Like #2484.
+17.04.2019_19:29 Trying to follow: 7117883194
+17.04.2019_19:29 Followed: 7117883194 #697.
+17.04.2019_19:29 Get Media by tag: sfbayarea
+17.04.2019_19:30 Get Media by tag: yayarea
+17.04.2019_19:30 Trying to like media: 2024219129334345492
+                 https://www.instagram.com/p/BwXeJLHhi8U/
+17.04.2019_19:30 Liked: 2024219129334345492. Like #2485.
+17.04.2019_19:31 Get Media by tag: sfbayarea
+17.04.2019_19:31 Trying to like media: 2024202404849072657
+                 https://www.instagram.com/p/BwXaVzOhToR/
+17.04.2019_19:31 Liked: 2024202404849072657. Like #2486.
+17.04.2019_19:32 Get Media by tag: yayarea
+17.04.2019_19:32 Get Media by tag: sfbayarea
+17.04.2019_19:32 sf_clout : Get media id on recent feed
+17.04.2019_19:32 Media in recent feed = 12
+17.04.2019_19:32 Trying to unfollow #583:
+17.04.2019_19:32 Getting user info : aliswinks
+17.04.2019_19:32 Checking user info..
+17.04.2019_19:32 Follower : 547
+17.04.2019_19:32 Following : 558
+17.04.2019_19:32 Media : 148
+17.04.2019_19:32    >This is a normal account
+17.04.2019_19:32    >This user is active
+17.04.2019_19:32    >This account is NOT following you
+17.04.2019_19:32    >You are following this account
+17.04.2019_19:32 aliswinks
+17.04.2019_19:32 Unfollowed: 407175973 #583.
+17.04.2019_19:33 Trying to like media: 2024215273956308298
+                 https://www.instagram.com/p/BwXdREhFfVK/
+17.04.2019_19:33 Liked: 2024215273956308298. Like #2487.
+17.04.2019_19:33 Get Media by tag: sanfrancisco
+17.04.2019_19:33 Trying to follow: 1565334601
+17.04.2019_19:33 Followed: 1565334601 #698.
+17.04.2019_19:34 Get Media by tag: sfbayarea
+17.04.2019_19:34 Trying to like media: 2024251640692960975
+                 https://www.instagram.com/p/BwXliRrgW7P/
+17.04.2019_19:34 Liked: 2024251640692960975. Like #2488.
+17.04.2019_19:35 Get Media by tag: sanfrancisco
+17.04.2019_19:36 Trying to like media: 2024250576683970331
+                 https://www.instagram.com/p/BwXlSyvoK8b/
+17.04.2019_19:36 Liked: 2024250576683970331. Like #2489.
+17.04.2019_19:37 Trying to unfollow #584:
+17.04.2019_19:37 Getting user info : irynamodel2019
+17.04.2019_19:37 Checking user info..
+17.04.2019_19:37 Follower : 64
+17.04.2019_19:37 Following : 6
+17.04.2019_19:37 Media : 50
+17.04.2019_19:37    >This user is active
+17.04.2019_19:37    >This account is NOT following you
+17.04.2019_19:37    >You are following this account
+17.04.2019_19:37 irynamodel2019
+17.04.2019_19:37 Unfollowed: 11594947355 #584.
+17.04.2019_19:37 Get Media by tag: yayarea
+17.04.2019_19:37 Get Media by tag: sfbayarea
+17.04.2019_19:37 Trying to like media: 2024241014685590940
+                 https://www.instagram.com/p/BwXjHpcHGWc/
+17.04.2019_19:37 Liked: 2024241014685590940. Like #2490.
+17.04.2019_19:38 Trying to follow: 5618035906
+17.04.2019_19:38 Followed: 5618035906 #699.
+17.04.2019_19:38 Get Media by tag: follow4follow
+17.04.2019_19:39 Trying to like media: 2024254019284053691
+                 https://www.instagram.com/p/BwXmE46lS67/
+17.04.2019_19:39 Liked: 2024254019284053691. Like #2491.
+17.04.2019_19:40 Get Media by tag: follow4follow
+17.04.2019_19:40 Trying to like media: 2023945425607489728
+                 https://www.instagram.com/p/BwWf6QqHHjA/
+17.04.2019_19:40 Liked: 2023945425607489728. Like #2492.
+17.04.2019_19:41 Get Media by tag: sanfrancisco
+17.04.2019_19:42 sf_clout : Get media id on recent feed
+17.04.2019_19:42 Media in recent feed = 12
+17.04.2019_19:42 Trying to unfollow #585:
+17.04.2019_19:42 Getting user info : malditowinter
+17.04.2019_19:42 Checking user info..
+17.04.2019_19:42 Follower : 330
+17.04.2019_19:42 Following : 1301
+17.04.2019_19:42 Media : 30
+17.04.2019_19:42    >This is probably Fake account
+17.04.2019_19:42    >This user is passive
+17.04.2019_19:42    >This account is NOT following you
+17.04.2019_19:42    >You are following this account
+17.04.2019_19:42 malditowinter
+17.04.2019_19:42 Unfollowed: 7642598167 #585.
+17.04.2019_19:42 Trying to like media: 2024250206123644415
+                 https://www.instagram.com/p/BwXlNZogtX_/
+17.04.2019_19:42 Liked: 2024250206123644415. Like #2493.
+17.04.2019_19:42 Get Media by tag: sanfrancisco
+17.04.2019_19:43 Trying to follow: 241805094
+17.04.2019_19:43 Followed: 241805094 #700.
+17.04.2019_19:43 Get Media by tag: yayarea
+17.04.2019_19:43 Trying to like media: 2024251732818022901
+                 https://www.instagram.com/p/BwXljnellH1/
+17.04.2019_19:43 Liked: 2024251732818022901. Like #2494.
+17.04.2019_19:44 Get Media by tag: sanfrancisco
+17.04.2019_19:45 Trying to like media: 2024253493804947994
+                 https://www.instagram.com/p/BwXl9Phlloa/
+17.04.2019_19:45 Liked: 2024253493804947994. Like #2495.
+17.04.2019_19:45 Get Media by tag: yayarea
+17.04.2019_19:46 Get Media by tag: sanfrancisco
+17.04.2019_19:46 Trying to like media: 2024256860606190617
+                 https://www.instagram.com/p/BwXmuPGlFQZ/
+17.04.2019_19:46 Liked: 2024256860606190617. Like #2496.
+17.04.2019_19:47 Trying to unfollow #586:
+17.04.2019_19:47 Getting user info : christiann.pm
+17.04.2019_19:47 Checking user info..
+17.04.2019_19:47 Follower : 859
+17.04.2019_19:47 Following : 601
+17.04.2019_19:47 Media : 202
+17.04.2019_19:47    >This is a normal account
+17.04.2019_19:47    >This user is active
+17.04.2019_19:47    >This account is NOT following you
+17.04.2019_19:47    >You are following this account
+17.04.2019_19:47 christiann.pm
+17.04.2019_19:47 Unfollowed: 1066212988 #586.
+17.04.2019_19:47 Get Media by tag: follow4follow
+17.04.2019_19:48 Trying to like media: 2024255827331136596
+                 https://www.instagram.com/p/BwXmfMyljxU/
+17.04.2019_19:48 Liked: 2024255827331136596. Like #2497.
+17.04.2019_19:48 Already followed before 3667305094
+17.04.2019_19:48 Get Media by tag: yayarea
+17.04.2019_19:49 Get Media by tag: yayarea
+17.04.2019_19:49 Trying to like media: 2023781126715445398
+                 https://www.instagram.com/p/BwV6jZZA5CW/
+17.04.2019_19:49 Liked: 2023781126715445398. Like #2498.
+17.04.2019_19:49 Get Media by tag: sfbayarea
+17.04.2019_19:50 Trying to follow: 11175243
+17.04.2019_19:51 Followed: 11175243 #701.
+17.04.2019_19:51 Get Media by tag: yayarea
+17.04.2019_19:51 Trying to like media: 2024193906477666909
+                 https://www.instagram.com/p/BwXYaIgHJJd/
+17.04.2019_19:51 Liked: 2024193906477666909. Like #2499.
+17.04.2019_19:51 Get Media by tag: sanfrancisco
+17.04.2019_19:51 sf_clout : Get media id on recent feed
+17.04.2019_19:51 Media in recent feed = 12
+17.04.2019_19:51 Trying to unfollow #587:
+17.04.2019_19:51 Getting user info : irizzari7
+17.04.2019_19:51 Checking user info..
+17.04.2019_19:51 Follower : 861
+17.04.2019_19:51 Following : 1715
+17.04.2019_19:51 Media : 784
+17.04.2019_19:51    >This is a normal account
+17.04.2019_19:51    >This user is active
+17.04.2019_19:51    >This account is following you
+17.04.2019_19:51    >You are following this account
+17.04.2019_19:52 Trying to like media: 2024258890029196163
+                 https://www.instagram.com/p/BwXnLxJneOD/
+17.04.2019_19:52 Liked: 2024258890029196163. Like #2500.
+17.04.2019_19:52 Get Media by tag: yayarea
+17.04.2019_19:53 Get Media by tag: yayarea
+17.04.2019_19:54 Get Media by tag: follow4follow
+17.04.2019_19:54 Trying to like media: 2024261915455587771
+                 https://www.instagram.com/p/BwXn3yzFQW7/
+17.04.2019_19:54 Liked: 2024261915455587771. Like #2501.
+17.04.2019_19:55 Get Media by tag: sfbayarea
+17.04.2019_19:55 Trying to like media: 2024244921921560217
+                 https://www.instagram.com/p/BwXkAgVhd6Z/
+17.04.2019_19:55 Liked: 2024244921921560217. Like #2502.
+17.04.2019_19:55 Trying to follow: 6295740387
+17.04.2019_19:55 Followed: 6295740387 #702.
+17.04.2019_19:56 Get Media by tag: yayarea
+17.04.2019_19:56 Trying to unfollow #587:
+17.04.2019_19:56 Getting user info : rhanielipires
+17.04.2019_19:56 Checking user info..
+17.04.2019_19:56 Follower : 13006
+17.04.2019_19:56 Following : 1487
+17.04.2019_19:56 Media : 553
+17.04.2019_19:56    >This user is active
+17.04.2019_19:56    >This account is NOT following you
+17.04.2019_19:56    >You are following this account
+17.04.2019_19:56 rhanielipires
+17.04.2019_19:56 Unfollowed: 649736762 #587.
+17.04.2019_19:57 Get Media by tag: yayarea
+17.04.2019_19:57 Trying to like media: 2024255987703432088
+                 https://www.instagram.com/p/BwXmhiJhUOY/
+17.04.2019_19:57 Liked: 2024255987703432088. Like #2503.
+17.04.2019_19:57 Get Media by tag: sanfrancisco
+17.04.2019_19:58 Trying to like media: 2024261847894457101
+                 https://www.instagram.com/p/BwXn2z4H_sN/
+17.04.2019_19:58 Liked: 2024261847894457101. Like #2504.
+17.04.2019_19:58 Get Media by tag: sanfrancisco
+17.04.2019_20:00 Trying to like media: 1922793960000198994
+                 https://www.instagram.com/p/BqvIutSFBlS/
+17.04.2019_20:00 Liked: 1922793960000198994. Like #2505.
+17.04.2019_20:00 Get Media by tag: sfbayarea
+17.04.2019_20:00 Already followed before 691165744
+17.04.2019_20:01 Get Media by tag: follow4follow
+17.04.2019_20:01 sf_clout : Get media id on recent feed
+17.04.2019_20:01 Media in recent feed = 12
+17.04.2019_20:01 Trying to unfollow #588:
+17.04.2019_20:01 Getting user info : velocityautoglass
+17.04.2019_20:01 Checking user info..
+17.04.2019_20:01 Follower : 111
+17.04.2019_20:01 Following : 23
+17.04.2019_20:01 Media : 113
+17.04.2019_20:01    >This user is active
+17.04.2019_20:01    >This account is NOT following you
+17.04.2019_20:01    >You are following this account
+17.04.2019_20:01 velocityautoglass
+17.04.2019_20:01 Unfollowed: 2285302689 #588.
+17.04.2019_20:01 Trying to like media: 2024265328040901243
+                 https://www.instagram.com/p/BwXopdBBHp7/
+17.04.2019_20:01 Liked: 2024265328040901243. Like #2506.
+17.04.2019_20:02 Get Media by tag: yayarea
+17.04.2019_20:02 Already followed before 191662397
+17.04.2019_20:03 Get Media by tag: sanfrancisco
+17.04.2019_20:03 Trying to like media: 2024266044964671705
+                 https://www.instagram.com/p/BwXoz4tARDZ/
+17.04.2019_20:03 Liked: 2024266044964671705. Like #2507.
+17.04.2019_20:04 Get Media by tag: sanfrancisco
+17.04.2019_20:04 Trying to like media: 2024264817569600953
+                 https://www.instagram.com/p/BwXoiBmjpW5/
+17.04.2019_20:04 Liked: 2024264817569600953. Like #2508.
+17.04.2019_20:05 Trying to follow: 2103061359
+17.04.2019_20:05 Followed: 2103061359 #703.
+17.04.2019_20:05 Get Media by tag: sfbayarea
+17.04.2019_20:05 Trying to like media: 2024253233228268008
+                 https://www.instagram.com/p/BwXl5c2AcHo/
+17.04.2019_20:05 Liked: 2024253233228268008. Like #2509.
+17.04.2019_20:06 Get Media by tag: follow4follow
+17.04.2019_20:06 Trying to unfollow #589:
+17.04.2019_20:06 Getting user info : buckwilders_
+17.04.2019_20:06 Checking user info..
+17.04.2019_20:06 Follower : 294
+17.04.2019_20:06 Following : 529
+17.04.2019_20:06 Media : 31
+17.04.2019_20:06    >This is a normal account
+17.04.2019_20:06    >This user is active
+17.04.2019_20:06    >This account is following you
+17.04.2019_20:06    >You are following this account
+17.04.2019_20:07 Trying to like media: 2024263562448671036
+                 https://www.instagram.com/p/BwXoPwrhRE8/
+17.04.2019_20:07 Liked: 2024263562448671036. Like #2510.
+17.04.2019_20:07 Get Media by tag: sfbayarea
+17.04.2019_20:08 Trying to like media: 2024218494517894298
+                 https://www.instagram.com/p/BwXd_75g9ya/
+17.04.2019_20:08 Liked: 2024218494517894298. Like #2511.
+17.04.2019_20:08 Get Media by tag: sanfrancisco
+17.04.2019_20:09 Get Media by tag: yayarea
+17.04.2019_20:10 Trying to like media: 2024166988323408992
+                 https://www.instagram.com/p/BwXSSbBFsxg/
+17.04.2019_20:10 Liked: 2024166988323408992. Like #2512.
+17.04.2019_20:10 Trying to follow: 8946348247
+17.04.2019_20:10 Followed: 8946348247 #704.
+17.04.2019_20:10 Get Media by tag: yayarea
+17.04.2019_20:11 Get Media by tag: sfbayarea
+17.04.2019_20:11 sf_clout : Get media id on recent feed
+17.04.2019_20:11 Media in recent feed = 12
+17.04.2019_20:11 Trying to unfollow #589:
+17.04.2019_20:11 Getting user info : andrevvhuge
+17.04.2019_20:11 Checking user info..
+17.04.2019_20:11 Follower : 5305
+17.04.2019_20:11 Following : 1350
+17.04.2019_20:11 Media : 185
+17.04.2019_20:11    >This user is passive
+17.04.2019_20:11    >This account is NOT following you
+17.04.2019_20:11    >You are following this account
+17.04.2019_20:11 andrevvhuge
+17.04.2019_20:11 Unfollowed: 720904448 #589.
+17.04.2019_20:11 Trying to like media: 2024263199356156907
+                 https://www.instagram.com/p/BwXoKehhPvr/
+17.04.2019_20:11 Liked: 2024263199356156907. Like #2513.
+17.04.2019_20:12 Get Media by tag: yayarea
+17.04.2019_20:12 Get Media by tag: sanfrancisco
+17.04.2019_20:13 Trying to like media: 2024271203900154475
+                 https://www.instagram.com/p/BwXp-9VhWJr/
+17.04.2019_20:13 Liked: 2024271203900154475. Like #2514.
+17.04.2019_20:14 Get Media by tag: follow4follow
+17.04.2019_20:14 Trying to like media: 2024271817904866322
+                 https://www.instagram.com/p/BwXqH5LDcQS/
+17.04.2019_20:14 Liked: 2024271817904866322. Like #2515.
+17.04.2019_20:14 Trying to follow: 779335207
+17.04.2019_20:14 Followed: 779335207 #705.
+17.04.2019_20:15 Get Media by tag: sfbayarea
+17.04.2019_20:15 Trying to like media: 2024252679538167084
+                 https://www.instagram.com/p/BwXlxZLgU0s/
+17.04.2019_20:15 Liked: 2024252679538167084. Like #2516.
+17.04.2019_20:15 Trying to unfollow #590:
+17.04.2019_20:15 Getting user info : giovannanettoo
+17.04.2019_20:15 Checking user info..
+17.04.2019_20:15 Follower : 1076
+17.04.2019_20:15 Following : 1188
+17.04.2019_20:15 Media : 48
+17.04.2019_20:15    >This is a normal account
+17.04.2019_20:15    >This user is active
+17.04.2019_20:15    >This account is NOT following you
+17.04.2019_20:15    >You are following this account
+17.04.2019_20:15 giovannanettoo
+17.04.2019_20:15 Unfollowed: 221295698 #590.
+17.04.2019_20:16 Get Media by tag: yayarea
+17.04.2019_20:17 Get Media by tag: sfbayarea
+17.04.2019_20:17 Trying to like media: 2024269804714051839
+                 https://www.instagram.com/p/BwXpqmPh8j_/
+17.04.2019_20:17 Liked: 2024269804714051839. Like #2517.
+
+^[[A^[[A^[[A^[[A17.04.2019_20:18 Get Media by tag: yayarea
+17.04.2019_20:18 Get Media by tag: follow4follow
+17.04.2019_20:18 Trying to like media: 2024274265843844625
+                 https://www.instagram.com/p/BwXqrg_lkYR/
+17.04.2019_20:18 Liked: 2024274265843844625. Like #2518.
+^[[A^[b^[[A^[[A
+^[[A^[[B^[[B^[[A17.04.2019_20:19 Trying to follow: 1655043382
+17.04.2019_20:19 Followed: 1655043382 #706.
+17.04.2019_20:19 Get Media by tag: follow4follow
+17.04.2019_20:20 Trying to like media: 2024274818695533423
+                 https://www.instagram.com/p/BwXqzj4HZNv/
+17.04.2019_20:20 Liked: 2024274818695533423. Like #2519.
+17.04.2019_20:20 sf_clout : Get media id on recent feed
+17.04.2019_20:20 Media in recent feed = 12
+17.04.2019_20:20 Trying to unfollow #591:
+17.04.2019_20:20 Getting user info : westerbekeranch
+17.04.2019_20:20 Checking user info..
+17.04.2019_20:20 Follower : 1120
+17.04.2019_20:20 Following : 769
+17.04.2019_20:20 Media : 784
+17.04.2019_20:20    >This is a normal account
+17.04.2019_20:20    >This user is active
+17.04.2019_20:20    >This account is NOT following you
+17.04.2019_20:20    >You are following this account
+17.04.2019_20:20 westerbekeranch
+17.04.2019_20:20 Unfollowed: 2535289109 #591.
+17.04.2019_20:21 Get Media by tag: yayarea
+17.04.2019_20:21 Get Media by tag: sfbayarea
+17.04.2019_20:21 Trying to like media: 2024273927362564671
+                 https://www.instagram.com/p/BwXqmlwh9I_/
+17.04.2019_20:21 Liked: 2024273927362564671. Like #2520.
+17.04.2019_20:22 Get Media by tag: sanfrancisco
+17.04.2019_20:23 Trying to like media: 2024275836174375968
+                 https://www.instagram.com/p/BwXrCXelJwg/
+17.04.2019_20:23 Liked: 2024275836174375968. Like #2521.
+17.04.2019_20:24 Get Media by tag: sanfrancisco
+17.04.2019_20:24 Trying to like media: 2024276122425930471
+                 https://www.instagram.com/p/BwXrGiEgLLn/
+17.04.2019_20:24 Liked: 2024276122425930471. Like #2522.
+17.04.2019_20:24 Trying to follow: 10500401124
+17.04.2019_20:24 Followed: 10500401124 #707.
+17.04.2019_20:25 Get Media by tag: yayarea
+
+17.04.2019_20:25 Trying to unfollow #592:
+17.04.2019_20:25 Getting user info : navyslayy
+17.04.2019_20:25 Checking user info..
+17.04.2019_20:25 Follower : 17072
+17.04.2019_20:25 Following : 97
+17.04.2019_20:25 Media : 1317
+17.04.2019_20:25    >This user is active
+17.04.2019_20:25    >This account is NOT following you
+17.04.2019_20:25    >You are following this account
+17.04.2019_20:25 navyslayy
+17.04.2019_20:25 Unfollowed: 282910706 #592.
+17.04.2019_20:26 Get Media by tag: yayarea
+17.04.2019_20:26 Trying to like media: 2024260324479283621
+                 https://www.instagram.com/p/BwXngpFgTGl/
+17.04.2019_20:26 Liked: 2024260324479283621. Like #2523.
+17.04.2019_20:26 Get Media by tag: sanfrancisco
+17.04.2019_20:27 Trying to like media: 2024276208259653361
+                 https://www.instagram.com/p/BwXrHyAl17x/
+17.04.2019_20:27 Liked: 2024276208259653361. Like #2524.
+17.04.2019_20:27 Get Media by tag: yayarea
+17.04.2019_20:28 Get Media by tag: sanfrancisco
+17.04.2019_20:28 Trying to like media: 2024278076461368636
+                 https://www.instagram.com/p/BwXri96F0U8/
+17.04.2019_20:28 Liked: 2024278076461368636. Like #2525.
+17.04.2019_20:29 Get Media by tag: yayarea
+17.04.2019_20:29 Already followed before 677887118
+17.04.2019_20:30 sf_clout : Get media id on recent feed
+17.04.2019_20:30 Media in recent feed = 12
+17.04.2019_20:30 Trying to unfollow #593:
+17.04.2019_20:30 Getting user info : swagnationmagazine101unkut
+17.04.2019_20:30 Checking user info..
+17.04.2019_20:30 Follower : 629
+17.04.2019_20:30 Following : 3064
+17.04.2019_20:30 Media : 1690
+17.04.2019_20:30    >This is probably Fake account
+17.04.2019_20:30    >This user is active
+17.04.2019_20:30    >This account is NOT following you
+17.04.2019_20:30    >You are following this account
+17.04.2019_20:30 swagnationmagazine101unkut
+17.04.2019_20:30 Unfollowed: 1443233904 #593.
+17.04.2019_20:30 Get Media by tag: follow4follow
+17.04.2019_20:30 Trying to like media: 2024278622021600714
+                 https://www.instagram.com/p/BwXrq6AA8XK/
+17.04.2019_20:30 Liked: 2024278622021600714. Like #2526.
+17.04.2019_20:31 Get Media by tag: yayarea
+17.04.2019_20:32 Already followed before 191662397
+17.04.2019_20:32 Get Media by tag: sanfrancisco
+17.04.2019_20:32 Trying to like media: 2024279304711733830
+                 https://www.instagram.com/p/BwXr01zhIJG/
+17.04.2019_20:32 Liked: 2024279304711733830. Like #2527.
+17.04.2019_20:33 Get Media by tag: sanfrancisco
+17.04.2019_20:33 Trying to like media: 2024280711759805411
+                 https://www.instagram.com/p/BwXsJUOHjvj/
+17.04.2019_20:33 Liked: 2024280711759805411. Like #2528.
+17.04.2019_20:34 Get Media by tag: yayarea
+17.04.2019_20:34 Trying to follow: 212862136
+17.04.2019_20:34 Followed: 212862136 #708.
+17.04.2019_20:34 Trying to like media: 2024111807893326221
+                 https://www.instagram.com/p/BwXFvcPJ8mN/
+17.04.2019_20:34 Liked: 2024111807893326221. Like #2529.
+17.04.2019_20:35 Trying to unfollow #594:
+17.04.2019_20:35 Getting user info : buckwilders_
+17.04.2019_20:35 Checking user info..
+17.04.2019_20:35 Follower : 294
+17.04.2019_20:35 Following : 529
+17.04.2019_20:35 Media : 31
+17.04.2019_20:35    >This is a normal account
+17.04.2019_20:35    >This user is active
+17.04.2019_20:35    >This account is following you
+17.04.2019_20:35    >You are following this account
+17.04.2019_20:35 Get Media by tag: sfbayarea
+17.04.2019_20:36 Get Media by tag: follow4follow
+17.04.2019_20:36 Trying to like media: 2024282801955897081
+                 https://www.instagram.com/p/BwXsnu3g375/
+17.04.2019_20:36 Liked: 2024282801955897081. Like #2530.
+17.04.2019_20:37 Get Media by tag: yayarea
+17.04.2019_20:37 Trying to like media: 2024164585323150687
+                 https://www.instagram.com/p/BwXRvdDHL1f/
+17.04.2019_20:37 Liked: 2024164585323150687. Like #2531.
+17.04.2019_20:38 Get Media by tag: yayarea
+17.04.2019_20:38 Get Media by tag: follow4follow
+17.04.2019_20:38 Trying to like media: 2024284180606932695
+                 https://www.instagram.com/p/BwXs7y1hNbX/
+17.04.2019_20:38 Liked: 2024284180606932695. Like #2532.
+17.04.2019_20:39 Trying to follow: 10094319335
+17.04.2019_20:39 Followed: 10094319335 #709.
+17.04.2019_20:39 Get Media by tag: sanfrancisco
+17.04.2019_20:40 sf_clout : Get media id on recent feed
+17.04.2019_20:40 Media in recent feed = 12
+17.04.2019_20:40 Trying to unfollow #594:
+17.04.2019_20:40 Getting user info : lamedievaleantichita
+17.04.2019_20:40 Checking user info..
+17.04.2019_20:40 Follower : 1075
+17.04.2019_20:40 Following : 504
+17.04.2019_20:40 Media : 467
+17.04.2019_20:40    >This user is active
+17.04.2019_20:40    >This account is NOT following you
+17.04.2019_20:40    >You are following this account
+17.04.2019_20:40 lamedievaleantichita
+17.04.2019_20:40 Unfollowed: 2322485282 #594.
+17.04.2019_20:40 Trying to like media: 2024283343121904571
+                 https://www.instagram.com/p/BwXsvm3hXO7/
+17.04.2019_20:40 Liked: 2024283343121904571. Like #2533.
+17.04.2019_20:41 Get Media by tag: yayarea
+17.04.2019_20:41 Get Media by tag: follow4follow
+17.04.2019_20:42 Trying to like media: 2024285749839877269
+                 https://www.instagram.com/p/BwXtSoTF1SV/
+17.04.2019_20:42 Liked: 2024285749839877269. Like #2534.
+17.04.2019_20:42 Get Media by tag: yayarea
+17.04.2019_20:43 Get Media by tag: follow4follow
+17.04.2019_20:43 Trying to like media: 2024286717877197728
+                 https://www.instagram.com/p/BwXtgt2nJug/
+17.04.2019_20:43 Liked: 2024286717877197728. Like #2535.
+17.04.2019_20:44 Trying to follow: 4490371308
+17.04.2019_20:44 Followed: 4490371308 #710.
+17.04.2019_20:44 Get Media by tag: sfbayarea
+17.04.2019_20:44 Trying to unfollow #595:
+17.04.2019_20:44 Getting user info : s0hry
+17.04.2019_20:44 Checking user info..
+17.04.2019_20:44 Follower : 192
+17.04.2019_20:44 Following : 328
+17.04.2019_20:44 Media : 29
+17.04.2019_20:44    >This is a normal account
+17.04.2019_20:44    >This user is active
+17.04.2019_20:44    >This account is NOT following you
+17.04.2019_20:44    >You are following this account
+17.04.2019_20:44 s0hry
+17.04.2019_20:44 Unfollowed: 12729461257 #595.
+17.04.2019_20:44 Trying to like media: 2024268278767125262
+                 https://www.instagram.com/p/BwXpUZGAYMO/
+17.04.2019_20:44 Liked: 2024268278767125262. Like #2536.
+17.04.2019_20:45 Get Media by tag: follow4follow
+17.04.2019_20:46 Trying to like media: 2023969422309534867
+                 https://www.instagram.com/p/BwWlXdVAyyT/
+17.04.2019_20:46 Liked: 2023969422309534867. Like #2537.
+17.04.2019_20:46 Get Media by tag: yayarea
+17.04.2019_20:47 Get Media by tag: follow4follow
+17.04.2019_20:47 Trying to like media: 2024276537411682354
+                 https://www.instagram.com/p/BwXrMkjlMAy/
+17.04.2019_20:47 Liked: 2024276537411682354. Like #2538.
+17.04.2019_20:48 Get Media by tag: sanfrancisco
+17.04.2019_20:49 Trying to follow: 1727604724
+17.04.2019_20:49 Followed: 1727604724 #711.
+17.04.2019_20:49 Trying to like media: 2024286680648650436
+                 https://www.instagram.com/p/BwXtgLLng7E/
+17.04.2019_20:49 Liked: 2024286680648650436. Like #2539.
